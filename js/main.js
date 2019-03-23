@@ -31,6 +31,21 @@
             if($(input).val().trim().match(/^([a-zA-Z0-9_\-\.]+)@((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.)|(([a-zA-Z0-9\-]+\.)+))([a-zA-Z]{1,5}|[0-9]{1,3})(\]?)$/) == null) {
                 return false;
             }
+
+            var from_email = $(input).val().trim();
+            var reply_email = "trattorianonnaboca@gmail.com",
+            var template_params = {
+                "reply_to": reply_email,
+                "from_name": from_email,
+                "to_name": reply_email,
+                "message_html": "Coming Soon email registration."
+             }
+             
+             var service_id = "default_service";
+             var template_id = "template_2S3LzJJD";
+             emailjs.send(service_id, template_id, template_params);
+
+            alert("email sent!");
         }
         else {
             if($(input).val().trim() == ''){
