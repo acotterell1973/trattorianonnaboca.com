@@ -48,7 +48,7 @@ var Insalate_col0 = {
         },
 
         {
-            name: "AL COLTELLO", cost: "$11.00",
+            name: "AL COLTELLO", cost: "$14.00",
             imageURL: "images/lunch-01.jpg",
             description: "Chopped salad with romaine, arugula, tomatoes, red onions Gorgonzola cheese, crispy pancetta, homemade balsamic vinaigrette"
         },
@@ -67,13 +67,13 @@ var Insalate_col1 = {
     dishes: [
 
         {
-            name: "BEETS CARPACCIO SALAD", cost: "$12.00",
+            name: "BEETS CARPACCIO SALAD", cost: "$15.00",
             imageURL: "images/lunch-01.jpg",
             description: "Gold and red roasted beets, arugula, mixed greens, goat cheese, mixed with our homemade citrus vinaigrette"
         },
 
         {
-            name: "CAMPAGNOLA", cost: "$12.00",
+            name: "CAMPAGNOLA", cost: "$14.00",
             imageURL: "images/lunch-01.jpg",
             description: "Romaine, red onion, tomatoes chick peas, salami, mortadella, aged provolone, kalamata olives, pepperoncini, our balsamic vinaigrette"
         },
@@ -205,7 +205,7 @@ var VITELLO_POLLO_PESCE = {
 
 
         {
-            name: "SALMONE ALLA GENOVESE", cost: "$24"
+            name: "SALMONE ALLA GENOVESE", cost: "$24",imageURL: "images/lunch-9631.jpg"
             , description: "Crispy, pan seated salmon, zucchini pesto, roasted potatoes, served with green beans and red onions"
         },
 
@@ -266,7 +266,7 @@ var Panini_col1 = {
     dishes: [
 
         {
-            name: "IL RUSTICO", cost: "$12.00",
+            name: "IL RUSTICO", cost: "$11.00",
             imageURL: "images/lunch-01.jpg"
             , description: "Broccoli rabe, sausage, garlic, EVOO"
         },
@@ -290,15 +290,9 @@ var Panini_col1 = {
         },
 
         {
-            name: "CAPRESE", cost: "$12.00",
+            name: "CAPRESE", cost: "$1.00",
             imageURL: "images/lunch-01.jpg"
             , description: "Fresh tomatoes, fresh mozzarella, basil"
-        },
-
-        {
-            name: "MUFFULETTA", cost: "$12.00",
-            imageURL: "images/lunch-01.jpg"
-            , description: "Broccoli rabe, sausage"
         }
 
     ]
@@ -314,7 +308,7 @@ var GORMET_ARTISIAN_PIZZAS_col0 = {
         },
 
         {
-            name: "QUATTRO STAGIONI ", cost: "$13.00 / $17.00",
+            name: "QUATTRO STAGIONI ", cost: "$14.00 / $18.00",
             imageURL: "images/lunch-01.jpg"
             , description: "Ricotta, prosciutto, mushroom, artichoke"
         },
@@ -369,7 +363,7 @@ var GORMET_ARTISIAN_PIZZAS_col1 = {
         },
 
         {
-            name: "QUATTRO FORMAGGI", cost: "$12.00 / $16.00",
+            name: "QUATTRO FORMAGGI", cost: "$14.00 / $18.00",
             imageURL: "images/lunch-01.jpg"
             , description: "Fontina, Ricotta, mozzarella, provolone, roasted garlic"
         },
@@ -399,7 +393,7 @@ var GORMET_ARTISIAN_PIZZAS_col1 = {
         },
 
         {
-            name: "MALECUMINATA", cost: "$15.00 / $19.00",
+            name: "MALECUMINATA", cost: "$16.00 / $19.00",
             imageURL: "images/lunch-01.jpg"
             , description: "Bacon, ham, sausage, pepperoni, meatball, onion, mushroom, pepper"
         },
@@ -422,7 +416,7 @@ var CHEF_SPECIALTY_PIZZAS_col0 = {
         },
 
         {
-            name: "PIZZA PESCATORE", cost: "$17.00 / $22.00",
+            name: "PIZZA PESCATORE", cost: "$18.00 / $22.00",
             imageURL: "images/lunch-01.jpg",
             description: "Seafood Combo: shrimp, salmon, clams, garlic in a special sauce"
         },
@@ -495,17 +489,17 @@ var CALZONES_col1 = {
 var ENTREES_AND_APASTA_col0 = {
     categoryName: "ENTREES AND A’PASTA",
     dishes: [
-        { name: "VEAL MILANESE WITH SALAD", imageURL: "images/lunch-01.jpg", cost: "$12.00" },
+        { name: "VEAL MILANESE WITH SALAD", imageURL: "images/lunch-01.jpg", cost: "$14.00" },
 
-        { name: "VEAL PARGEMIAN WITH PENNE", imageURL: "images/lunch-01.jpg", cost: "$13.00" },
+        { name: "VEAL PARGEMIAN WITH PENNE", imageURL: "images/lunch-01.jpg", cost: "$14.00" },
 
-        { name: "VEAL FRANCESE WITH PENNE", imageURL: "images/lunch-01.jpg", cost: "$13.00" },
+        { name: "VEAL FRANCESE WITH PENNE", imageURL: "images/lunch-01.jpg", cost: "$14.00" },
 
         { name: "SPAGHETTI CON POLPETTE", cost: "$10.00", imageURL: "images/lunch-01.jpg", description: "Homemade meatballs with homemade tomato sauce" },
 
-        { name: "PENNE VODKA SAUCE", cost: "$11.00", imageURL: "images/lunch-01.jpg", description: "Prosciutto, onion with pink sauce" },
+        { name: "PENNE VODKA SAUCE", cost: "$13.00", imageURL: "images/lunch-01.jpg", description: "Prosciutto, onion with pink sauce" },
 
-        { name: "BALES ZITI WITH RICOTTA", imageURL: "images/lunch-01.jpg", cost: "$10.00" },
+        { name: "BAKED ZITI WITH RICOTTA", imageURL: "images/lunch-01.jpg", cost: "$12.00" },
 
     ]
 }
@@ -516,7 +510,7 @@ var ENTREES_AND_APASTA_col1 = {
 
         { name: "LINGUINI BOLOGNESE", imageURL: "images/lunch-01.jpg", cost: "$12.00" },
 
-        { name: "EGGPLANT PARMEGIAN", imageURL: "images/lunch-01.jpg", cost: "$10.00" },
+        { name: "EGGPLANT PARMEGIAN", imageURL: "images/lunch-01.jpg", cost: "$12.00" },
 
         { name: "CHICKEN PARMEGIAN WITH PENNE", imageURL: "images/lunch-01.jpg", cost: "$11.00" },
 
