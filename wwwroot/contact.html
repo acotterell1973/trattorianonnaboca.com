@@ -49,6 +49,12 @@
 	<link rel="stylesheet" type="text/css" href="css/util.css">
 	<link rel="stylesheet" type="text/css" href="css/main.css">
 <!--===============================================================================================-->
+<script type="text/javascript" src="https://cdn.emailjs.com/sdk/2.3.2/email.min.js"></script>
+<script type="text/javascript">
+	(function(){
+		emailjs.init("user_9GtnX2FDupGXXP6aWVlCr");
+	})();
+</script>
 </head>
 <body class="animsition">
 
@@ -197,7 +203,7 @@
 		<!-- Map -->
 		<div class="container">
 			<div class="map bo8 bo-rad-10 of-hidden">
-				<div class="contact-map size37" id="google_map" data-map-x="40.704644" data-map-y="-74.011987" data-pin="images/icons/icon-position-map.png" data-scrollwhell="0" data-draggable="1"></div>
+				<div class="contact-map size37" id="google_map" data-map-x="26.3313923" data-map-y="-80.1375762" data-pin="images/icons/icon-position-map.png" data-scrollwhell="0" data-draggable="1"></div>
 			</div>
 		</div>
 
@@ -206,7 +212,7 @@
 				Send us a Message
 			</h3>
 
-			<form class="wrap-form-reservation size22 m-l-r-auto">
+			<form class="wrap-form-reservation size22 m-l-r-auto" id="contact-form">
 				<div class="row">
 					<div class="col-md-4">
 						<!-- Name -->
@@ -215,7 +221,7 @@
 						</span>
 
 						<div class="wrap-inputname size12 bo2 bo-rad-10 m-t-3 m-b-23">
-							<input class="bo-rad-10 sizefull txt10 p-l-20" type="text" name="name" placeholder="Name">
+							<input class="bo-rad-10 sizefull txt10 p-l-20" type="text" name="user_name" id="user_name" placeholder="Name">
 						</div>
 					</div>
 
@@ -226,7 +232,7 @@
 						</span>
 
 						<div class="wrap-inputemail size12 bo2 bo-rad-10 m-t-3 m-b-23">
-							<input class="bo-rad-10 sizefull txt10 p-l-20" type="text" name="email" placeholder="Email">
+							<input class="bo-rad-10 sizefull txt10 p-l-20" type="email" name="user_email" id="user_email" placeholder="Email">
 						</div>
 					</div>
 
@@ -237,7 +243,7 @@
 						</span>
 
 						<div class="wrap-inputphone size12 bo2 bo-rad-10 m-t-3 m-b-23">
-							<input class="bo-rad-10 sizefull txt10 p-l-20" type="text" name="phone" placeholder="Phone">
+							<input class="bo-rad-10 sizefull txt10 p-l-20" type="text" name="contact_number" id="contact_number" placeholder="Phone">
 						</div>
 					</div>
 
@@ -246,7 +252,7 @@
 						<span class="txt9">
 							Message
 						</span>
-						<textarea class="bo-rad-10 size35 bo2 txt10 p-l-20 p-t-15 m-b-10 m-t-3" name="message" placeholder="Message"></textarea>
+						<textarea class="bo-rad-10 size35 bo2 txt10 p-l-20 p-t-15 m-b-10 m-t-3" name="contact" id="contact" placeholder="Message"></textarea>
 					</div>
 				</div>
 
@@ -476,7 +482,7 @@
 <!--===============================================================================================-->
 	<script type="text/javascript" src="vendor/lightbox2/js/lightbox.min.js"></script>
 <!--===============================================================================================-->
-	<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAKFWBqlKAGCeS1rMVoaNlwyayu0e0YRes"></script>
+	<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCihg39CCfmOAUjV4NKiiI5JZUmcS08fuw"></script>
 	<script src="js/map-custom.js"></script>
 <!--===============================================================================================-->
 	<script src="js/main.js"></script>

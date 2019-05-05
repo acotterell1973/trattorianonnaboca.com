@@ -192,6 +192,79 @@
         });
     });
 
+
+    $('#user_email').each(function(){
+        $(this).focus(function(){
+           hideValidate(this);
+        });
+    });
+
+    function validate (input) {
+
+        if($(input).attr('type') == 'email' || $(input).attr('name') == 'email') {
+            if($(input).val().trim().match(/^([a-zA-Z0-9_\-\.]+)@((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.)|(([a-zA-Z0-9\-]+\.)+))([a-zA-Z]{1,5}|[0-9]{1,3})(\]?)$/) == null) {
+                return false;
+            }
+
+            var from_email = $(input).val().trim();
+            var user_name = $("#user_name").val().trim();
+            var contact_number = $("#contact_number").val().trim();
+            var contact = $("#contact").val().trim();
+
+            var reply_email = "trattorianonnaboca@gmail.com;acotterell1973@gmail.com";
+            var template_params = {
+                "reply_to": from_email,
+                "from_name": user_name,
+                "to_name": reply_email,
+                "from_phone":contact_number,
+                "message_html": contact
+             }
+             
+             var service_id = "default_service";
+             var template_id = "template_2S3LzJJD";
+             emailjs.send(service_id, template_id, template_params);
+
+             $(input).val("");
+             $("#user_name").val("");
+             $("#contact_number").val("");
+             $("#contact").val("");
+
+            alert("email sent!");
+        }
+        else {
+            if($(input).val().trim() == ''){
+                return false;
+            }
+        }
+    }
+
+    function showValidate(input) {
+        var thisAlert = $(input).parent();
+
+        $(thisAlert).addClass('alert-validate');
+    }
+
+    function hideValidate(input) {
+        var thisAlert = $(input).parent();
+
+        $(thisAlert).removeClass('alert-validate');
+    }   
+
+    var input = $('#user_email');
     
+    $('#contact-form').on('submit',function(){
+        event.preventDefault();
+        var check = true;
+
+        for(var i=0; i<input.length; i++) {
+            if(validate(input[i]) == false){
+                showValidate(input[i]);
+                check=false;
+            }
+        }
+
+        return check;
+    });
+
 
 })(jQuery);
