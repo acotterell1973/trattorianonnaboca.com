@@ -15,7 +15,7 @@ var AntiPasti_Col0 = {
         },
         {
             name: "COZZE FRADIAVOLA", cost: "$12.00",
-            description: "Mussels with spicy marinara sauce", imageURL: "images/lunch-01.jpg",
+            description: "Mussels with spicy marinara sauce", imageURL: "images/dinner-9665.jpg",
         },
         {
             name: "POLPO A FREDDO", cost: "$14.00",
@@ -327,7 +327,7 @@ var GORMET_ARTISIAN_PIZZAS_col0 = {
 
         {
             name: "CAPRESE", cost: "$12.00 / $16.00",
-            imageURL: "images/lunch-01.jpg"
+            imageURL: "images/dinner-9687.jpg"
             , description: "Fresh tomatoes, fresh mozzarella, basil and EVOO"
         },
 
@@ -495,9 +495,9 @@ var ENTREES_AND_APASTA_col0 = {
 
         { name: "VEAL FRANCESE WITH PENNE", imageURL: "images/lunch-01.jpg", cost: "$14.00" },
 
-        { name: "SPAGHETTI CON POLPETTE", cost: "$10.00", imageURL: "images/lunch-01.jpg", description: "Homemade meatballs with homemade tomato sauce" },
+        { name: "SPAGHETTI CON POLPETTE", cost: "$10.00", imageURL: "images/dinner-9636.jpg", description: "Homemade meatballs with homemade tomato sauce" },
 
-        { name: "PENNE VODKA SAUCE", cost: "$13.00", imageURL: "images/lunch-01.jpg", description: "Prosciutto, onion with pink sauce" },
+        { name: "PENNE VODKA SAUCE", cost: "$13.00", imageURL: "images/dinner-9632.jpg", description: "Prosciutto, onion with pink sauce" },
 
         { name: "BAKED ZITI WITH RICOTTA", imageURL: "images/lunch-01.jpg", cost: "$12.00" },
 

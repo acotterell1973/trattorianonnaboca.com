@@ -209,15 +209,14 @@
             var from_email = $(input).val().trim();
             var user_name = $("#user_name").val().trim();
             var contact_number = $("#contact_number").val().trim();
-            var contact = $("#contact").val().trim();
+            var message = $("#contact").val().trim();
 
-            var reply_email = "trattorianonnaboca@gmail.com;acotterell1973@gmail.com";
+
             var template_params = {
                 "reply_to": from_email,
-                "from_name": user_name,
-                "to_name": reply_email,
-                "from_phone":contact_number,
-                "message_html": contact
+                "contact_name": user_name,
+                "contact_phone":contact_number,
+                "message_html": message
              }
              
              var service_id = "default_service";
