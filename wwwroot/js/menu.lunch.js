@@ -50,13 +50,13 @@ var Insalate_col0 = {
         {
             name: "AL COLTELLO", cost: "$14.00",
             imageURL: "images/lunch-01.jpg",
-            description: "Chopped salad with romaine, arugula, tomatoes, red onions Gorgonzola cheese, crispy pancetta, homemade balsamic vinaigrette"
+            description: "Chopped salad with romaine, arugula, tomatoes, red onions, Gorgonzola cheese, crispy pancetta, homemade balsamic vinaigrette"
         },
 
         {
             name: "MONDELLO", cost: "$12.00",
             imageURL: "images/lunch-01.jpg",
-            description: "Romaine, arugula, grape tomatoes, red onion, cucumber, green olives, Topped with imported tuna, with homemade whit balsamic vinaigrette"
+            description: "Romaine, arugula, grape tomatoes, red onion, cucumber, green olives, Topped with imported tuna, with homemade white balsamic vinaigrette"
         },
 
     ]
@@ -229,7 +229,7 @@ var Panini_col0 = {
 
         {
             name: "CHICKEN PARMIGIANA", cost: "$11.00",
-            imageURL: "images/lunch-01.jpg"
+            imageURL: "images/dinner-9686.jpg"
             , description: "Chicken Milanese, tomato sauce, mozzarella cheese"
         },
 
@@ -290,8 +290,8 @@ var Panini_col1 = {
         },
 
         {
-            name: "CAPRESE", cost: "$1.00",
-            imageURL: "images/lunch-01.jpg"
+            name: "CAPRESE", cost: "$11.00",
+            imageURL: "images/dinner-9687.jpg"
             , description: "Fresh tomatoes, fresh mozzarella, basil"
         }
 
@@ -327,7 +327,7 @@ var GORMET_ARTISIAN_PIZZAS_col0 = {
 
         {
             name: "CAPRESE", cost: "$12.00 / $16.00",
-            imageURL: "images/dinner-9687.jpg"
+            imageURL: "images/lunch-01.jpg"
             , description: "Fresh tomatoes, fresh mozzarella, basil and EVOO"
         },
 

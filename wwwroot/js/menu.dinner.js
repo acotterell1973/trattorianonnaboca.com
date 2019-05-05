@@ -90,13 +90,13 @@ var Insalate_col0 = {
         {
             name: "AL COLTELLO", cost: "$14.00",
             imageURL: "images/dinner-9679.jpg",
-            description: "Chopped salad with romaine, arugula, tomatoes, red onions Gorgonzola cheese, crispy pancetta, homemade balsamic vinaigrette"
+            description: "Chopped salad with romaine, arugula, tomatoes, red onions, Gorgonzola cheese, crispy pancetta, homemade balsamic vinaigrette"
         },
 
         {
             name: "MONDELLO", cost: "$12.00",
             imageURL: "images/lunch-01.jpg",
-            description: "Romaine, arugula, grape tomatoes, red onion, cucumber, green olives, Topped with imported tuna, with homemade whit balsamic vinaigrette"
+            description: "Romaine, arugula, grape tomatoes, red onion, cucumber, green olives, Topped with imported tuna, with homemade white balsamic vinaigrette"
         },
 
     ]
@@ -188,7 +188,7 @@ var VITELLO_POLLO_PESCE_col1 = {
 
         {
             name: "CHICKEN PARMIGIANA", cost: "$22.00"
-            ,imageURL: "images/dinner-9686.jpg", description: "Tomato sauce, mozzarella, served with penne"
+            ,imageURL: "images/lunch-01.jpg", description: "Tomato sauce, mozzarella, served with penne"
         },
 
         {
@@ -222,7 +222,7 @@ var VITELLO_POLLO_PESCE_col1 = {
 
         {
             name: "SALMONE ALLA GENOVESE", cost: "$24.00"
-            ,imageURL: "images/dinner-9631.jpg", description: "Crispy, pan seated salmon, zucchini pesto, roasted potatoes, served with green beans and red onions"
+            ,imageURL: "images/dinner-9631.jpg", description: "Crispy, pan seared salmon, zucchini pesto, roasted potatoes, served with green beans and red onions"
         },
 
     ]
@@ -238,8 +238,8 @@ var APASTA_col0 = {
         },
 
         {
-            name: "LINGUINE ALLA NONNA", cost: "$20.00",
-            imageURL: "images/dinner_9237.jpg",
+            name: "LINGUINI ALLA NONNA", cost: "$20.00",
+            imageURL: "images/lunch-01.jpg",
             description: "Shrimp sautéed with grape tomatoes, a brandy cream sauce"
         },
 

@@ -8,10 +8,10 @@ var menuBevande = {
     categoryName: "Bevande",
     menuItems: [{ name:"Soft Drinks    ", cost:"$2.50" },
     { name:"Iced Tea    ", cost:"$2.50" },
-    { name:"Sparkling Water    ", cost:"$6.00" },
-    { name:"Beer on Draught    ", cost:"$5.00" },
-    { name:"Imported Draught    ", cost:"$6.00" },
-    { name:"Bottled Beer Domestic    ", cost:"$5.00" },
+    { name:"Sparkling Water", cost:"$6.00" },
+    { name:"Beer on Draft", cost:"$5.00" },
+    { name:"Imported Draft", cost:"$6.00" },
+    { name:"Bottled Beer Domestic", cost:"$5.00" },
     { name:"Bottled Beer Import", cost:"$6.00" },
     { name:"Wine Cork Fee", cost:"$15.00" },
     ]
@@ -52,7 +52,7 @@ var menuDesserts = {
     menuItems: [{
         name: "Daily homemade desserts available",
         description: "Ask your server for details.",
-        cost: "$",
+        cost: "",
         imageURL: "images/lunch-01.jpg",
         column: 1
 
