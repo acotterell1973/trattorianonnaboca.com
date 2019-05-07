@@ -10,12 +10,12 @@ var AntiPasti_Col0 = {
     dishes: [
         {
             name: "CALAMARI FRITTI", cost: "$13.00",
-            imageURL: "images/lunch-01.jpg",
+            imageURL: "images/dinner-9712.jpg",
             description: "Fried calamari, cherry peppers, spicy marinara sauce"
         },
         {
             name: "COZZE FRADIAVOLA", cost: "$12.00",
-            imageURL: "images/lunch-01.jpg",
+            imageURL: "images/dinner-9665.jpg",
             description: "Mussels with spicy marinara sauce"
         },
         {
@@ -35,7 +35,7 @@ var AntiPasti_Col0 = {
         },
         {
             name: "CAVOLFIORE ALLA SICILIANA", cost: "$12.00",
-            imageURL: "images/lunch-01.jpg",
+            imageURL: "images/dinner-1771.jpg",
             description: "Sautéed golden brown cauliflower, topped with bread crumbs and pine nuts"
         },
 
@@ -67,12 +67,12 @@ var AntiPasti_Col1 = {
         },
         {
             name: "GRILLED VEGGIE", cost: "$12",
-            imageURL: "images/lunch-01.jpg",
+            imageURL: "images/dinner-9714.jpg",
             description: "Eggplant, zucchini, roasted peppers, mushroom"
         },
         {
             name: "TAVOLA DI SALUMI E FORMAGGI", cost: "$22.00",
-            imageURL: "images/lunch-01.jpg",
+            imageURL: "images/dinner-9233.jpg",
             description: "Imported cured meats and cheese, marinated olives"
         },
     ]
@@ -201,7 +201,7 @@ var VITELLO_POLLO_PESCE_col1 = {
 
         {
             name: "GAMBERI ALLA FRANCESE", cost: "$24.00"
-            ,imageURL: "images/lunch-01.jpg", description: "Shrimp served in a lemon butter sauce, served over linguini"
+            ,imageURL: "images/dinner-1765.jpg", description: "Shrimp served in a lemon butter sauce, served over linguini"
         },
 
         {
@@ -305,7 +305,7 @@ var APASTA_col1 = {
 
         {
             name: "LINGUINE CON VONGOLE", cost: "$22.00",
-            imageURL: "images/lunch-01.jpg",
+            imageURL: "images/dinner-9348.jpg",
             description: "Nonna’s classic linguine with clams, red or white sauce"
         },
 
@@ -337,76 +337,7 @@ var APASTA_col1 = {
     ]
 }
 
-var Panini = {
-    categoryName: "Panini",
-    dishes: [
-        {
-            name: "EGGPLANT PARMIGIANA", cost: "$9"
-            , description: "Eggplant Milanese, tomato sauce, mozzarella cheese"
-        },
 
-        {
-            name: "MEATBALL PARMIGIANA", cost: "$9"
-            , description: "Nonna’s homemade meatballs, tomato sauce, mozzarella cheese"
-        },
-
-        {
-            name: "CHICKEN PARMIGIANA", cost: "$11"
-            , description: "Chicken Milanese, tomato sauce, mozzarella cheese"
-        },
-
-        {
-            name: "VEAL PARMIGIANA", cost: "$12"
-            , description: "Veal Milanese, tomato sauce, mozzarella cheese"
-        },
-
-        {
-            name: "GRILLED CHICKEN", cost: "$10"
-            , description: "Grilled chicken breast, portobello mushroom, pesto spread with pine nuts, Fresh mozzarella, basil"
-        },
-
-        {
-            name: "NONNA'S ITALIAN", cost: "$10"
-            , description: "Grilled eggplant, tomatoes, fresh mozzarella, basil"
-        },
-
-        {
-            name: "TOTO", cost: "$11"
-            , description: "Prosciutto, mortadella, salami, provolone cheese"
-        },
-
-        {
-            name: "IL RUSTICO", cost: "$12"
-            , description: "Broccoli rabe, sausage, garlic, EVOO"
-        },
-
-        {
-            name: "CHICKEN MILANESE", cost: "$12"
-            , description: "Chicken Milanese, arugula, tomatoes, sliced red onion"
-        },
-
-        {
-            name: "SAUSAGE, PEPPERS, ONIONS", cost: "$9"
-            , description: "With a touch of marinara sauce, no cheese"
-        },
-
-        {
-            name: "GRILLED VEGGIE", cost: "$9"
-            , description: "Zucchini, eggplant, portobello mushroom, roasted peppers, balsamic vinaigrette"
-        },
-
-        {
-            name: "CAPRESE", cost: "$12"
-            , description: "Fresh tomatoes, fresh mozzarella, basil"
-        },
-
-        {
-            name: "MUFFULETTA", cost: "$12"
-            , description: "Broccoli rabe, sausage"
-        }
-
-    ]
-}
 
 var GORMET_ARTISIAN_PIZZAS_col0 = {
     categoryName: "GORMET ARTISIAN PIZZAS",

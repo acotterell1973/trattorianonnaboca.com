@@ -11,7 +11,7 @@ var AntiPasti_Col0 = {
         {
             name: "CALAMARI FRITTI", cost: "$12.00",
             description: "Fried calamari, cherry peppers, spicy marinara sauce",
-            imageURL: "images/lunch-01.jpg",
+            imageURL: "images/dinner-9712.jpg",
         },
         {
             name: "COZZE FRADIAVOLA", cost: "$12.00",
@@ -110,12 +110,12 @@ var AntiPasti_Col1 = {
         },
         {
             name: "GRILLED VEGGIE", cost: "$12.00",
-            imageURL: "images/lunch-01.jpg",
+            imageURL: "images/dinner-9714.jpg",
             description: "Eggplant, zucchini, roasted peppers, mushroom"
         },
         {
             name: "TAVOLA DI SALUMI E FORMAGGI", cost: "$14.00",
-            imageURL: "images/lunch-01.jpg",
+            imageURL: "images/dinner-9233.jpg",
             description: "Imported cured meats and cheese, marinated olives"
         }]
 };
@@ -285,7 +285,7 @@ var Panini_col1 = {
 
         {
             name: "GRILLED VEGGIE", cost: "$9.00",
-            imageURL: "images/lunch-01.jpg"
+            imageURL: "images/dinner-9714.jpg"
             , description: "Zucchini, eggplant, portobello mushroom, roasted peppers, balsamic vinaigrette"
         },
 
