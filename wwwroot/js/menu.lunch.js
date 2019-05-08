@@ -28,8 +28,8 @@ var AntiPasti_Col0 = {
         },
 
         {
-            name: "BAKES CLAMS OREGANATE", cost: "$12.00",
-            description: "Littleneck clams topped with seasoned Italian bread crumbs,baked in a butter white wine sauce", imageURL: "images/lunch-01.jpg",
+            name: "BAKED CLAMS OREGANATE", cost: "$12.00",
+            description: "Littleneck clams topped with seasoned Italian bread crumbs, baked in a butter white wine sauce", imageURL: "images/lunch-01.jpg",
         },
         {
             name: "CAVOLFIORE ALLA SICILIANA", cost: "$10.00",
@@ -56,7 +56,7 @@ var Insalate_col0 = {
         {
             name: "MONDELLO", cost: "$12.00",
             imageURL: "images/lunch-01.jpg",
-            description: "Romaine, arugula, grape tomatoes, red onion, cucumber, green olives, Topped with imported tuna, with homemade white balsamic vinaigrette"
+            description: "Romaine, arugula, grape tomatoes, red onion, cucumber, green olives, topped with imported tuna, with homemade white balsamic vinaigrette"
         },
 
     ]
@@ -68,14 +68,14 @@ var Insalate_col1 = {
 
         {
             name: "BEETS CARPACCIO SALAD", cost: "$15.00",
-            imageURL: "images/lunch-01.jpg",
+            imageURL: "images/dinner-3425.jpg",
             description: "Gold and red roasted beets, arugula, mixed greens, goat cheese, mixed with our homemade citrus vinaigrette"
         },
 
         {
             name: "CAMPAGNOLA", cost: "$14.00",
             imageURL: "images/lunch-01.jpg",
-            description: "Romaine, red onion, tomatoes chick peas, salami, mortadella, aged provolone, kalamata olives, pepperoncini, our balsamic vinaigrette"
+            description: "Romaine, red onion, tomatoes, chick peas, salami, mortadella, aged provolone, kalamata olives, pepperoncini, our balsamic vinaigrette"
         },
 
         {
@@ -99,7 +99,7 @@ var AntiPasti_Col1 = {
             description: "Prosciutto, sweet cantaloupe", imageURL: "images/lunch-01.jpg",
         },
         {
-            name: "MELANZANE ALL PISANA", cost: "$11.00",
+            name: "MELANZANE ALLA PISANA", cost: "$11.00",
             imageURL: "images/lunch-01.jpg",
             description: "Tower of eggplant, fresh mozzarella, fresh tomato, homemade basil pesto with pine nuts"
         },
@@ -365,13 +365,13 @@ var GORMET_ARTISIAN_PIZZAS_col1 = {
         {
             name: "QUATTRO FORMAGGI", cost: "$14.00 / $18.00",
             imageURL: "images/lunch-01.jpg"
-            , description: "Fontina, Ricotta, mozzarella, provolone, roasted garlic"
+            , description: "Fontina, ricotta, mozzarella, provolone, roasted garlic"
         },
 
         {
             name: "ARUGULA", cost: "$14.00 / $18.00",
             imageURL: "images/lunch-01.jpg"
-            , description: "Portobello mushroom, fresh mozzarella, fresh tomatoes, arugula, shaves parmesan"
+            , description: "Portobello mushroom, fresh mozzarella, fresh tomatoes, arugula, shaved parmesan"
         },
 
         {
@@ -383,13 +383,13 @@ var GORMET_ARTISIAN_PIZZAS_col1 = {
         {
             name: "GAMBERETTI AGLI SCAMPI", cost: "$16.00 / $20.00",
             imageURL: "images/lunch-01.jpg"
-            , description: "Baby shrimp, garlic EVOO, basil, mozzarella"
+            , description: "Baby shrimp, garlic, EVOO, basil, mozzarella"
         },
 
         {
             name: "PIZZA DI CAVOLFIORE", cost: "$13.00 / $17.00",
             imageURL: "images/lunch-01.jpg"
-            , description: "Sautéed Cauliflower, garlic, oil, mozzarella, bread crumbs"
+            , description: "Sautéed cauliflower, garlic, oil, mozzarella, bread crumbs"
         },
 
         {
