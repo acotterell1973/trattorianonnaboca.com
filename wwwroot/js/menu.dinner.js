@@ -379,12 +379,6 @@ var GORMET_ARTISIAN_PIZZAS_col0 = {
         },
 
         {
-            name: "BARESE", cost: "$12.00 / $16.00",
-            imageURL: "images/lunch-01.jpg",
-            description: "Caramelized onions, green olives, parmesan cheese, black pepper"
-        },
-
-        {
             name: "TUSCANA", cost: "$15.00 / $19.00",
             imageURL: "images/lunch-01.jpg",
             description: "Wild mushroom, caramelized onion, thyme, fresh mozzarella, arugula"

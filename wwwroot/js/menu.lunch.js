@@ -337,11 +337,6 @@ var GORMET_ARTISIAN_PIZZAS_col0 = {
             , description: "Sautéed broccoli rabe and Italian sausage"
         },
 
-        {
-            name: "BARESE", cost: "$12.00 / $16.00",
-            imageURL: "images/lunch-01.jpg"
-            , description: "Caramelized onions, green olives, parmesan cheese, black pepper"
-        },
 
         {
             name: "TUSCANA", cost: "$15.00 / $19.00",
@@ -519,6 +514,7 @@ var ENTREES_AND_APASTA_col1 = {
         { name: "GRILLED SALMON WITH VEGETABLES", imageURL: "images/lunch-01.jpg", cost: "$15.00" },
     ]
 }
+
 
 var source = document.getElementById("entry-template").innerHTML;
 var template = Handlebars.compile(source);
