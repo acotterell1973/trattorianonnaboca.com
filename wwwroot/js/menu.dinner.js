@@ -491,7 +491,7 @@ var CALZONES_col0 = {
         },
         {
             name: "SPINACH CALZON", cost: "$11.00",
-            imageURL: "images/lunch-01.jpg",
+            imageURL: "images/9845-calzone.jpg",
             description: "Ricotta, Mozzarella, Spinach"
         },
     ]
