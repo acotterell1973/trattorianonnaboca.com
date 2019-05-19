@@ -156,7 +156,7 @@ var VITELLO_POLLO_PESCE_col0 = {
 
         {
             name: "POLLO ALLA GORGONZOLA", cost: "$22.00"
-            ,imageURL: "images/9830-pollo-alla-gongonzola-dinner.jpg", description: "Chicken breast sautéed with gorgonzola cheese, mushrooms, cream sauce, served with penne"
+            ,imageURL: "images/9830-pollo-alla-gongonzola.jpg", description: "Chicken breast sautéed with gorgonzola cheese, mushrooms, cream sauce, served with penne"
         },
 
         {
