@@ -19,7 +19,7 @@ var AntiPasti_Col0 = {
         },
         {
             name: "POLPO A FREDDO", cost: "$14.00",
-            description: "Octopus salad, celery, olives, arugula", imageURL: "images/lunch-01.jpg",
+            description: "Octopus salad, celery, olives, arugula", imageURL: "images/9822-polpo-a-freddo-appetizer.jpg",
         },
         {
             name: "VONGOLE (IN BIANCO O MARECHIARO)", cost: "$12.00",
@@ -80,7 +80,7 @@ var Insalate_col1 = {
 
         {
             name: "NONNA SALAD", cost: "$6.00",
-            imageURL: "images/lunch-01.jpg",
+            imageURL: "images/9843-nonna-salad.jpg",
             description: "Our house salad with romaine, frisee, radicchio, grape tomatoes, kalamata olives, red onion"
         },
     ]
@@ -96,11 +96,11 @@ var AntiPasti_Col1 = {
         },
         {
             name: "PROSCIUTTO E MELONE", cost: "$11.00",
-            description: "Prosciutto, sweet cantaloupe", imageURL: "images/lunch-01.jpg",
+            description: "Prosciutto, sweet cantaloupe", imageURL: "images/9844-prosciutto-e-melona.jpg",
         },
         {
             name: "MELANZANE ALLA PISANA", cost: "$11.00",
-            imageURL: "images/lunch-01.jpg",
+            imageURL: "images/9841-mellanzane-alla-pisana.jpg",
             description: "Tower of eggplant, fresh mozzarella, fresh tomato, homemade basil pesto with pine nuts"
         },
         {
@@ -120,97 +120,6 @@ var AntiPasti_Col1 = {
         }]
 };
 
-var VITELLO_POLLO_PESCE = {
-    categoryName: "VITELLO, POLLO, PESCE",
-    dishes: [
-        {
-            name: "VITELLO ALLA PICCATA", cost: "$24"
-            , description: "Veal scallopine in a lemon butter sauce, with capers, served with penne"
-        },
-
-        {
-            name: "VITELLO FRANCESE", cost: "$24"
-            , description: "Veal egg battered and pan seared in a light lemon white wine sauce with penne"
-        },
-
-        {
-            name: "VITELLO ALLA SORRENTINA", cost: "$24"
-            , description: "Veal scallopine with eggplant, prosciutto, tomato, fresh mozzarella sherry wine, served with roasted potatoes"
-        },
-
-        {
-            name: "VITELLO ALLA MARSALA", cost: "$24"
-            , description: "Veal scallopine in a marsala wine sauce with mushrooms, served with penne"
-        },
-
-
-
-        {
-            name: "POLLO ALLA GORGONZOLA", cost: "$22"
-            , description: "Chicken breast sautéed with gorgonzola cheese, mushrooms, cream sauce, served with penne"
-        },
-
-        {
-            name: "POLLO ALLA FIORENTINA", cost: "$22"
-            , description: "Chicken breast, spinach, fontina cheese, white wine sauce, servedwith penne"
-        },
-
-        {
-            name: "POLLO ALLA FRANCESE", cost: "$22"
-            , description: "Chicken breast, egg battered, and pan seared in a light lemon white wine sauce, served with penne"
-        },
-
-        {
-            name: "POLLO SCARPIELLO", cost: "$26"
-            , description: "Chicken on the bone with mushrooms, Italian sausage, potatoes, cherry peppers, white wine, red vinegar"
-        },
-
-        {
-            name: "EGGPLANT PARMIGIANA", cost: "$16"
-            , description: "Tomato sauce, mozzarella, served with penne"
-        },
-
-        {
-            name: "CHICKEN PARMIGIANA", cost: "$22"
-            , description: "Tomato sauce, mozzarella, served with penne"
-        },
-
-        {
-            name: "VEAL PARMIGIANA", cost: "$24"
-            , description: "Tomato sauce, mozzarella, served with penne"
-        },
-
-
-
-
-        {
-            name: "GAMBERI ALLA FRANCESE", cost: "$24"
-            , description: "Shrimp served in a lemon butter sauce, served over linguini"
-        },
-
-        {
-            name: "CIOPPINO", cost: "$28"
-            , description: "Seafood stew, shrimp, mussels, clams, calamari, chunks of fish filet in a light broth"
-        },
-
-        {
-            name: "GAMBERI ALLA OREGANATA", cost: "$24"
-            , description: "Shrimp sautéed in a lemon butter sauce, toasted bread crumbs, White wine, served with sautéed green beans"
-        },
-
-        {
-            name: "BACCALA ALLA LIVORNESE", cost: "$23"
-            , description: "Imported fresh cod pan seared with onions, capers, kalamata olives, cherry tomatoes, white wine, served with penne"
-        },
-
-
-        {
-            name: "SALMONE ALLA GENOVESE", cost: "$24",imageURL: "images/lunch-9631.jpg"
-            , description: "Crispy, pan seated salmon, zucchini pesto, roasted potatoes, served with green beans and red onions"
-        },
-
-    ]
-}
 
 var Panini_col0 = {
     categoryName: "Panini",
@@ -455,13 +364,13 @@ var CALZONES_col0 = {
     dishes: [
         {
             name: "TRADITIONAL CALZONE", cost: "$8.00",
-            imageURL: "images/lunch-01.jpg",
+            imageURL: "images/9845-calzone.jpg",
             description: "Ricotta, Mozzarella, Ham"
         },
 
         {
             name: "SPINACH CALZON", cost: "$9.00",
-            imageURL: "images/lunch-01.jpg",
+            imageURL: "images/9845-calzone.jpg",
             description: "Ricotta, Mozzarella, Spinach"
         },
 
@@ -475,7 +384,7 @@ var CALZONES_col1 = {
 
         {
             name: "MEAT CALZONE", cost: "$10.00",
-            imageURL: "images/lunch-01.jpg",
+            imageURL: "images/9845-calzone.jpg",
             description: "Meatball, sausage, pepperoni, ricotta, mozzarella"
         },
     ]

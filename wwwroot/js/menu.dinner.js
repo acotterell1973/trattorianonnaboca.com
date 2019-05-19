@@ -20,12 +20,12 @@ var AntiPasti_Col0 = {
         },
         {
             name: "POLPO A FREDDO", cost: "$15.00",
-            imageURL: "images/lunch-01.jpg",
+            imageURL: "images/9822-polpo-a-freddo-appetizer.jpg",
             description: "Octopus salad, celery, olives, arugula"
         },
         {
             name: "VONGOLE (IN BIANCO O MARECHIARO)", cost: "$13.00",
-            imageURL: "images/lunch-01.jpg",
+            imageURL: "images/9818-vongole-appetizer.jpg ",
             description: "Clams in a white wine sauce or with a touch of tomato"
         },
         {
@@ -47,17 +47,17 @@ var AntiPasti_Col1 = {
     dishes: [
         {
             name: "CLASSICA CAPRESE ", cost: "$14.00",
-            imageURL: "images/lunch-01.jpg",
+            imageURL: "images/9816-classica-caprese-appetizer.jpg",
             description: "Fresh mozzarella, tomato, basil"
         },
         {
             name: "PROSCIUTTO E MELONE", cost: "$12.00",
-            imageURL: "images/lunch-01.jpg",
+            imageURL: "images/9844-prosciutto-e-melona.jpg",
             description: "Prosciutto, sweet cantaloupe"
         },
         {
             name: "MELANZANE ALLA PISANA", cost: "$14.00",
-            imageURL: "images/lunch-01.jpg",
+            imageURL: "images/9841-mellanzane-alla-pisana.jpg",
             description: "Tower of eggplant, fresh mozzarella, fresh tomato, homemade basil pesto with pine nuts"
         },
         {
@@ -120,7 +120,7 @@ var Insalate_col1 = {
 
         {
             name: "NONNA SALAD", cost: "$8.00",
-            imageURL: "images/lunch-01.jpg",
+            imageURL: "images/9843-nonna-salad.jpg",
             description: "Our house salad with romaine, frisee, radicchio, grape tomatoes, kalamata olives, red onion"
         },
     ]
@@ -156,7 +156,7 @@ var VITELLO_POLLO_PESCE_col0 = {
 
         {
             name: "POLLO ALLA GORGONZOLA", cost: "$22.00"
-            ,imageURL: "images/lunch-01.jpg", description: "Chicken breast sautéed with gorgonzola cheese, mushrooms, cream sauce, served with penne"
+            ,imageURL: "images/9830-pollo-alla-gongonzola-dinner.jpg", description: "Chicken breast sautéed with gorgonzola cheese, mushrooms, cream sauce, served with penne"
         },
 
         {
@@ -183,7 +183,7 @@ var VITELLO_POLLO_PESCE_col1 = {
     dishes: [
         {
             name: "EGGPLANT PARMIGIANA", cost: "$16.00"
-            ,imageURL: "images/lunch-01.jpg", description: "Tomato sauce, mozzarella, served with penne"
+            ,imageURL: "images/9821-eggplant-parmigiana-entree-dinner.jpg ", description: "Tomato sauce, mozzarella, served with penne"
         },
 
         {
@@ -211,7 +211,7 @@ var VITELLO_POLLO_PESCE_col1 = {
 
         {
             name: "GAMBERI ALLA OREGANATA", cost: "$24.00"
-            , imageURL: "images/lunch-01.jpg",description: "Shrimp sautéed in a lemon butter sauce, toasted bread crumbs, White wine, served with sautéed green beans"
+            , imageURL: "images/9817-gamberi-alla-oreganata-dinner.jpg",description: "Shrimp sautéed in a lemon butter sauce, toasted bread crumbs, White wine, served with sautéed green beans"
         },
 
         {
@@ -486,7 +486,7 @@ var CALZONES_col0 = {
     dishes: [
         {
             name: "TRADITIONAL CALZONE", cost: "$10.00",
-            imageURL: "images/lunch-01.jpg",
+            imageURL: "images/9845-calzone.jpg",
             description: "Ricotta, Mozzarella, Ham"
         },
         {
@@ -502,7 +502,7 @@ var CALZONES_col1 = {
     dishes: [
         {
             name: "MEAT CALZONE", cost: "$12.00",
-            imageURL: "images/lunch-01.jpg",
+            imageURL: "images/9845-calzone.jpg",
             description: "Meatball, sausage, pepperoni, ricotta, mozzarella"
         },
     ]
@@ -544,9 +544,9 @@ var ENTREES_AND_APASTA = {
 var STROMBOLI_col0 = {
     categoryName: "STROMBOLI",
     dishes: [
-        { name: "SPINACH",imageURL: "images/lunch-01.jpg", cost: "$12.00" },
-        { name: "EGGPLANT",imageURL: "images/lunch-01.jpg", cost: "$12.00" },
-        { name: "CHICKEN PARMIGIANA",imageURL: "images/lunch-01.jpg", cost: "$12.00" },
+        { name: "SPINACH",imageURL: "images/9842-stromboli.jpg", cost: "$12.00" },
+        { name: "EGGPLANT",imageURL: "images/9842-stromboli.jpg", cost: "$12.00" },
+        { name: "CHICKEN PARMIGIANA",imageURL: "images/9842-stromboli.jpg", cost: "$12.00" },
     ]
 }
 
@@ -554,8 +554,8 @@ var STROMBOLI_col1 = {
     categoryName: "STROMBOLI",
     dishes: [
         
-        { name: "BROCCOLI – RABE AND SAUSAGE",imageURL: "images/lunch-01.jpg", cost: "$12.00" },
-        { name: "CREATE YOUR OWN",imageURL: "images/lunch-01.jpg", cost: "$12.00" },
+        { name: "BROCCOLI – RABE AND SAUSAGE",imageURL: "images/9842-stromboli.jpg", cost: "$12.00" },
+        { name: "CREATE YOUR OWN",imageURL: "images/9842-stromboli.jpg", cost: "$12.00" },
     ]
 }
 
