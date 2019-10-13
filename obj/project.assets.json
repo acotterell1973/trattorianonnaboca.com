@@ -12092,20 +12092,20 @@
   },
   "packageFolders": {
     "C:\\Users\\acotterell\\.nuget\\packages\\": {},
-    "C:\\ProgramData\\Xamarin\\NuGet\\": {},
+    "C:\\Microsoft\\Xamarin\\NuGet\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\git\\01-trattorianonnaboca-com\\src\\src.csproj",
+      "projectUniqueName": "C:\\git\\trattorianonnaboca.com\\src.csproj",
       "projectName": "src",
-      "projectPath": "C:\\git\\01-trattorianonnaboca-com\\src\\src.csproj",
+      "projectPath": "C:\\git\\trattorianonnaboca.com\\src.csproj",
       "packagesPath": "C:\\Users\\acotterell\\.nuget\\packages\\",
-      "outputPath": "C:\\git\\01-trattorianonnaboca-com\\src\\obj\\",
+      "outputPath": "C:\\git\\trattorianonnaboca.com\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\ProgramData\\Xamarin\\NuGet\\",
+        "C:\\Microsoft\\Xamarin\\NuGet\\",
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
@@ -12153,10 +12153,16 @@
           }
         },
         "imports": [
-          "net461"
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
         ],
         "assetTargetFallback": true,
-        "warn": true
+        "warn": true,
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }

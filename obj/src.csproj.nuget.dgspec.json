@@ -1,24 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\development\\POC\\sso\\src\\src.csproj": {}
+    "C:\\git\\trattorianonnaboca.com\\src.csproj": {}
   },
   "projects": {
-    "C:\\development\\POC\\sso\\src\\src.csproj": {
+    "C:\\git\\trattorianonnaboca.com\\src.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\development\\POC\\sso\\src\\src.csproj",
+        "projectUniqueName": "C:\\git\\trattorianonnaboca.com\\src.csproj",
         "projectName": "src",
-        "projectPath": "C:\\development\\POC\\sso\\src\\src.csproj",
-        "packagesPath": "C:\\Users\\ancotterell\\.nuget\\packages\\",
-        "outputPath": "C:\\development\\POC\\sso\\src\\obj\\",
+        "projectPath": "C:\\git\\trattorianonnaboca.com\\src.csproj",
+        "packagesPath": "C:\\Users\\acotterell\\.nuget\\packages\\",
+        "outputPath": "C:\\git\\trattorianonnaboca.com\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\ProgramData\\Xamarin\\NuGet\\",
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\ancotterell\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\acotterell\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -62,10 +62,16 @@
             }
           },
           "imports": [
-            "net461"
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
           ],
           "assetTargetFallback": true,
-          "warn": true
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -1,0 +1,16 @@
+C:\git\trattorianonnaboca.com\bin\Release\netcoreapp2.2\appsettings.Development.json
+C:\git\trattorianonnaboca.com\bin\Release\netcoreapp2.2\appsettings.json
+C:\git\trattorianonnaboca.com\bin\Release\netcoreapp2.2\Properties\launchSettings.json
+C:\git\trattorianonnaboca.com\bin\Release\netcoreapp2.2\src.deps.json
+C:\git\trattorianonnaboca.com\bin\Release\netcoreapp2.2\src.runtimeconfig.json
+C:\git\trattorianonnaboca.com\bin\Release\netcoreapp2.2\src.runtimeconfig.dev.json
+C:\git\trattorianonnaboca.com\bin\Release\netcoreapp2.2\src.dll
+C:\git\trattorianonnaboca.com\bin\Release\netcoreapp2.2\src.pdb
+C:\git\trattorianonnaboca.com\obj\Release\netcoreapp2.2\src.csprojAssemblyReference.cache
+C:\git\trattorianonnaboca.com\obj\Release\netcoreapp2.2\src.RazorAssemblyInfo.cache
+C:\git\trattorianonnaboca.com\obj\Release\netcoreapp2.2\src.RazorAssemblyInfo.cs
+C:\git\trattorianonnaboca.com\obj\Release\netcoreapp2.2\src.AssemblyInfoInputs.cache
+C:\git\trattorianonnaboca.com\obj\Release\netcoreapp2.2\src.AssemblyInfo.cs
+C:\git\trattorianonnaboca.com\obj\Release\netcoreapp2.2\src.RazorTargetAssemblyInfo.cache
+C:\git\trattorianonnaboca.com\obj\Release\netcoreapp2.2\src.dll
+C:\git\trattorianonnaboca.com\obj\Release\netcoreapp2.2\src.pdb

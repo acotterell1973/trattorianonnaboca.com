@@ -20,9 +20,11 @@ var menuBevande = {
 var menuCaffe = {
     categoryName: "AntiPasti",
     menuItems: [
-        { name: "ESPRESSO    ", cost: "$2.50" },
-        { name: "CAPPUCCINO    ", cost: "$3.50" },
-        { name: "CAFFE AMERICANO   ", cost: "$2.00" },
+        { name: "ESPRESSO    ", cost: "$3.00" },
+        { name: "DOUBLE ESPRESSO    ", cost: "$5.50" },
+        { name: "CAPPUCCINO    ", cost: "$4.50" },
+        { name: "CAFFE AMERICANO   ", cost: "$2.50" },
+        { name: "MARECHITO   ", cost: "$3.00" },
         { name: "NONNA’S COLD BREW   ", cost: "$3.00" },
     ]
 };
@@ -50,13 +52,94 @@ var menuMain = {
 var menuDesserts = {
     categoryName: "AntiPasti",
     menuItems: [{
-        name: "Daily homemade desserts available",
-        description: "Ask your server for details.",
-        cost: "",
-        imageURL: "images/lunch-01.jpg",
+        name: "HOMEMADE TIRAMISU",
+        description: "",
+        cost: "$8",
+        imageURL: "",
         column: 1
 
-    }]
+    },
+    {
+        name: "HOMEMADE RICOTTA CHEESECAKE",
+        description: "",
+        cost: "$8",
+        imageURL: "",
+        column: 1
+
+    },
+    {
+        name: "HOMEMADE CHOCOLATE CHEESECAKE",
+        description: "",
+        cost: "$8",
+        imageURL: "",
+        column: 1
+
+    },
+    {
+        name: "CHEESECAKE OF THE DAY",
+        description: "Ask your server for details.",
+        cost: "$8",
+        imageURL: "",
+        column: 1
+
+    },
+    {
+        name: "CANNOLI",
+        description: "",
+        cost: "$7",
+        imageURL: "",
+        column: 1
+
+    },
+    {
+        name: "FLOURLESS CHOCOLATE CAKE",
+        description: "",
+        cost: "$7",
+        imageURL: "",
+        column: 1
+
+    },
+    {
+        name: "ITALIAN TARTUFO",
+        description: "Vanilla and Chocolate Ice Cream with Cherry and Almond Center",
+        cost: "$7",
+        imageURL: "",
+        column: 1
+
+    },
+    {
+        name: "SPUMONI TARTUFO",
+        description: "Chocolate, Strawberry and Pistachio Ice Cream",
+        cost: "$7",
+        imageURL: "",
+        column: 1
+
+    },
+    {
+        name: "ICE CREAM OF THE DAY",
+        description: "Ask your server for details.",
+        cost: "$7",
+        imageURL: "",
+        column: 1
+
+    },
+    {
+        name: "LEMON SORBET",
+        description: "",
+        cost: "$7",
+        imageURL: "",
+        column: 1
+
+    },
+    {
+        name: "ORANGE SORBET",
+        description: "",
+        cost: "$7",
+        imageURL: "",
+        column: 1
+
+    },
+]
 };
 
 

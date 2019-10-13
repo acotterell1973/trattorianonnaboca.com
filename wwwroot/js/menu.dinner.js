@@ -9,11 +9,13 @@ var AntiPasti_Col0 = {
     categoryName: "AntiPasti",
     dishes: [
         {
-            name: "CALAMARI FRITTI", cost: "$13.00",
+            rightimage: "images/chilipepper.png",
+            name: "CALAMARI FRITTI", cost: "$14.00",
             imageURL: "images/dinner-9712.jpg",
             description: "Fried calamari, cherry peppers, spicy marinara sauce"
         },
         {
+            rightimage: "images/chilipepper.png",
             name: "COZZE FRADIAVOLA", cost: "$12.00",
             imageURL: "images/dinner-9665.jpg",
             description: "Mussels with spicy marinara sauce"
@@ -94,9 +96,10 @@ var Insalate_col0 = {
         },
 
         {
-            name: "MONDELLO", cost: "$12.00",
+            newmenuitem: "New", 
+            name: "SICILIAN SALAD", cost: "$14.00",
             imageURL: "images/lunch-01.jpg",
-            description: "Romaine, arugula, grape tomatoes, red onion, cucumber, green olives, topped with imported tuna, with homemade white balsamic vinaigrette"
+            description: "Fennel, fresh oranges, arugula, candied walnuts, avocado, goat cheese, with homemade citrus vinaigrette"
         },
 
     ]
@@ -170,6 +173,7 @@ var VITELLO_POLLO_PESCE_col0 = {
         },
 
         {
+            rightimage: "images/chilipepper.png",
             name: "POLLO SCARPIELLO", cost: "$26.00"
             ,imageURL: "images/dinner-9638.jpg", description: "Chicken on the bone with mushrooms, Italian sausage, potatoes, cherry peppers, white wine, red vinegar"
         },
@@ -182,7 +186,7 @@ var VITELLO_POLLO_PESCE_col1 = {
     categoryName: "VITELLO, POLLO, PESCE",
     dishes: [
         {
-            name: "EGGPLANT PARMIGIANA", cost: "$16.00"
+            name: "EGGPLANT PARMIGIANA", cost: "$17.00"
             ,imageURL: "images/9821-eggplant-parmigiana-entree-dinner.jpg ", description: "Tomato sauce, mozzarella, served with penne"
         },
 
@@ -196,22 +200,32 @@ var VITELLO_POLLO_PESCE_col1 = {
             , imageURL: "images/lunch-01.jpg",description: "Tomato sauce, mozzarella, served with penne"
         },
 
+        {
+            name: "VEAL PARMIGIANA", cost: "$26.00"
+            , imageURL: "images/lunch-01.jpg",description: "Tomato sauce, mozzarella, served with penne"
+        },
 
 
 
         {
-            name: "GAMBERI ALLA FRANCESE", cost: "$24.00"
+            name: "GAMBERI ALLA FRANCESE", cost: "$25.00"
             ,imageURL: "images/dinner-1765.jpg", description: "Shrimp served in a lemon butter sauce, served over linguini"
         },
 
         {
-            name: "CIOPPINO", cost: "$28.00"
+            name: "CIOPPINO", cost: "$30.00"
             , imageURL: "images/dinner-3430.jpg",description: "Seafood stew, shrimp, mussels, clams, calamari, chunks of fish filet in a light broth"
         },
 
         {
-            name: "GAMBERI ALLA OREGANATA", cost: "$24.00"
+            name: "GAMBERI ALLA OREGANATA", cost: "$25.00"
             , imageURL: "images/9817-gamberi-alla-oreganata-dinner.jpg",description: "Shrimp sautéed in a lemon butter sauce, toasted bread crumbs, White wine, served with sautéed green beans"
+        },
+
+        {
+            newmenuitem: "New", 
+            name: "GAMBERI SCAMPI", cost: "$25.00"
+            , imageURL: "images/lunch-01.jpg",description: "White wine, garlic, lemon, served over linguini"
         },
 
         {
@@ -221,7 +235,7 @@ var VITELLO_POLLO_PESCE_col1 = {
 
 
         {
-            name: "SALMONE ALLA GENOVESE", cost: "$24.00"
+            name: "SALMONE ALLA GENOVESE", cost: "$25.00"
             ,imageURL: "images/dinner-9631.jpg", description: "Crispy, pan seared salmon, zucchini pesto, roasted potatoes, served with green beans and red onions"
         },
 
@@ -250,7 +264,7 @@ var APASTA_col0 = {
         },
 
         {
-            name: "RIGATONI BOLOGNESE", cost: "$20.00",
+            name: "RIGATONI BOLOGNESE", cost: "$21.00",
             imageURL: "images/lunch-01.jpg",
             description: "Nonna’s homemade meat sauce"
         },
@@ -259,6 +273,13 @@ var APASTA_col0 = {
             name: "GNOCCNI ALLA NAPOLETANA", cost: "$18.00",
             imageURL: "images/dinner-9637.jpg",
             description: "Homemade gnocchi, pomodoro sauce, fresh mozzarella"
+        },
+
+        {
+            newmenuitem: "New", 
+            name: "GNOCCNI BOLOGNESE", cost: "$21.00",
+            imageURL: "images/lunch-01.jpg",
+            description: "Homemade gnocchi, with homemade bolognese sauce"
         },
 
         {
@@ -276,8 +297,8 @@ var APASTA_col0 = {
   
         {
             name: "AVAILABLE UPON REQUEST", cost: "$3.00",
-            imageURL: "images/lunch-01.jpg",
-            description: "• GLUTEN FREE PASTA • WHOLE WHEAT PASTA • PENNE OR SPAGHETTI"
+            imageURL: "images/spacer.png",
+            description: "• GLUTEN FREE PASTA • WHOLE WHEAT PASTA • PENNE"
         }
   
   
@@ -304,11 +325,17 @@ var APASTA_col1 = {
         },
 
         {
-            name: "LINGUINE CON VONGOLE", cost: "$22.00",
+            
+            name: "LINGUINE CON VONGOLE", cost: "$23.00",
             imageURL: "images/dinner-9348.jpg",
             description: "Nonna’s classic linguine with clams, red or white sauce"
         },
-
+        {
+            newmenuitem: "New", 
+            name: "LINGUINE CON COZZE", cost: "$23.00",
+            imageURL: "images/lunch-01.jpg",
+            description: "Nonna’s classic linguine with mussels, red or white sauce"
+        },
         {
             name: "PAST ALLA CONTADINA", cost: "$18.00",
             imageURL: "images/lunch-01.jpg",
@@ -429,7 +456,7 @@ var GORMET_ARTISIAN_PIZZAS_col1 = {
         },
 
         {
-            name: "MALECUMINATA", cost: "$16.00 / $20.00",
+            name: "MALECUMINATA", cost: "$16.00 / $19.00",
             imageURL: "images/lunch-01.jpg",
             description: "Bacon, ham, sausage, pepperoni, meatball, onion, mushroom, pepper"
         },
@@ -440,11 +467,6 @@ var GORMET_ARTISIAN_PIZZAS_col1 = {
 var CHEF_SPECIALTY_PIZZAS_col0 = {
     categoryName: "CHEF SPECIALTY PIZZAS",
     dishes: [
-        {
-            name: "PIZZA ALLA VONGOLE", cost: "$15.00 / $19.00",
-            imageURL: "images/lunch-01.jpg",
-            description: "Clams Casino pizza, peppers, garlic, bacon, fresh clams, no sauce"
-        },
 
         {
             name: "VEGGIE PIZZA", cost: "$15.00 / $19.00",
@@ -485,7 +507,7 @@ var CALZONES_col0 = {
     categoryName: "CALZONES",
     dishes: [
         {
-            name: "TRADITIONAL CALZONE", cost: "$10.00",
+            name: "TRADITIONAL CALZONE", cost: "$11.00",
             imageURL: "images/9845-calzone.jpg",
             description: "Ricotta, Mozzarella, Ham"
         },
@@ -501,7 +523,7 @@ var CALZONES_col1 = {
     categoryName: "CALZONES",
     dishes: [
         {
-            name: "MEAT CALZONE", cost: "$12.00",
+            name: "MEAT CALZONE", cost: "$13.00",
             imageURL: "images/9845-calzone.jpg",
             description: "Meatball, sausage, pepperoni, ricotta, mozzarella"
         },
@@ -546,7 +568,7 @@ var STROMBOLI_col0 = {
     dishes: [
         { name: "SPINACH",imageURL: "images/9842-stromboli.jpg", cost: "$12.00" },
         { name: "EGGPLANT",imageURL: "images/9842-stromboli.jpg", cost: "$12.00" },
-        { name: "CHICKEN PARMIGIANA",imageURL: "images/9842-stromboli.jpg", cost: "$12.00" },
+        { name: "CHICKEN PARMIGIANA",imageURL: "images/9842-stromboli.jpg", cost: "$13.00" },
     ]
 }
 
@@ -554,7 +576,7 @@ var STROMBOLI_col1 = {
     categoryName: "STROMBOLI",
     dishes: [
         
-        { name: "BROCCOLI – RABE AND SAUSAGE",imageURL: "images/9842-stromboli.jpg", cost: "$12.00" },
+        { name: "BROCCOLI – RABE AND SAUSAGE",imageURL: "images/9842-stromboli.jpg", cost: "$13.00" },
         { name: "CREATE YOUR OWN",imageURL: "images/9842-stromboli.jpg", cost: "$12.00" },
     ]
 }

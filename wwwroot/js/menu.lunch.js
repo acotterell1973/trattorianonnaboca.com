@@ -9,12 +9,15 @@ var AntiPasti_Col0 = {
     categoryName: "AntiPasti",
     dishes: [
         {
-            name: "CALAMARI FRITTI", cost: "$12.00",
+            name: "CALAMARI FRITTI ", 
+            rightimage: "images/chilipepper.png",
+            cost: "$14.00",
             description: "Fried calamari, cherry peppers, spicy marinara sauce",
             imageURL: "images/dinner-9712.jpg",
         },
         {
             name: "COZZE FRADIAVOLA", cost: "$12.00",
+            rightimage: "images/chilipepper.png",
             description: "Mussels with spicy marinara sauce", imageURL: "images/dinner-9665.jpg",
         },
         {
@@ -42,7 +45,7 @@ var Insalate_col0 = {
     categoryName: "Insalate",
     dishes: [
         {
-            name: "CLASSIC CEASAR", cost: "$9.00",
+            name: "CLASSIC CEASAR", cost: "$10.00",
             imageURL: "images/lunch-01.jpg",
             description: "Romain lettuce, pecorino romano cheese, homemade dressing "
         },
@@ -54,9 +57,10 @@ var Insalate_col0 = {
         },
 
         {
-            name: "MONDELLO", cost: "$12.00",
+            newmenuitem: "New", 
+            name: "SICILIAN SALAD", cost: "$14.00",
             imageURL: "images/lunch-01.jpg",
-            description: "Romaine, arugula, grape tomatoes, red onion, cucumber, green olives, topped with imported tuna, with homemade white balsamic vinaigrette"
+            description: "Fennel, fresh oranges, arugula, candied walnuts, avocado, goat cheese, with homemade citrus vinaigrette"
         },
 
     ]
@@ -131,13 +135,13 @@ var Panini_col0 = {
         },
 
         {
-            name: "MEATBALL PARMIGIANA", cost: "$9.00",
+            name: "MEATBALL PARMIGIANA", cost: "$10.00",
             imageURL: "images/lunch-01.jpg"
             , description: "Nonna’s homemade meatballs, tomato sauce, mozzarella cheese"
         },
 
         {
-            name: "CHICKEN PARMIGIANA", cost: "$11.00",
+            name: "CHICKEN PARMIGIANA", cost: "$13.00",
             imageURL: "images/dinner-9686.jpg"
             , description: "Chicken Milanese, tomato sauce, mozzarella cheese"
         },
@@ -175,7 +179,7 @@ var Panini_col1 = {
     dishes: [
 
         {
-            name: "IL RUSTICO", cost: "$11.00",
+            name: "IL RUSTICO", cost: "$12.00",
             imageURL: "images/lunch-01.jpg"
             , description: "Broccoli rabe, sausage, garlic, EVOO"
         },
@@ -187,13 +191,13 @@ var Panini_col1 = {
         },
 
         {
-            name: "SAUSAGE, PEPPERS, ONIONS", cost: "$9.00",
+            name: "SAUSAGE, PEPPERS, ONIONS", cost: "$10.00",
             imageURL: "images/lunch-01.jpg"
             , description: "With a touch of marinara sauce, no cheese"
         },
 
         {
-            name: "GRILLED VEGGIE", cost: "$9.00",
+            name: "GRILLED VEGGIE", cost: "$11.00",
             imageURL: "images/dinner-9714.jpg"
             , description: "Zucchini, eggplant, portobello mushroom, roasted peppers, balsamic vinaigrette"
         },
@@ -313,11 +317,6 @@ var CHEF_SPECIALTY_PIZZAS_col0 = {
             description: "Fresh Salmon with grilled vegetables, eggplant, zucchini, yellow squash, no sauce"
         },
 
-        {
-            name: "PIZZA ALLA VONGOLE", cost: "$15.00 / $19.00",
-            imageURL: "images/lunch-01.jpg",
-            description: "Clams Casino pizza, peppers, garlic, bacon, fresh clams, no sauce"
-        },
 
         {
             name: "PIZZA PESCATORE", cost: "$18.00 / $22.00",
@@ -416,11 +415,11 @@ var ENTREES_AND_APASTA_col1 = {
 
         { name: "EGGPLANT PARMEGIAN", imageURL: "images/lunch-01.jpg", cost: "$12.00" },
 
-        { name: "CHICKEN PARMEGIAN WITH PENNE", imageURL: "images/lunch-01.jpg", cost: "$11.00" },
+        { name: "CHICKEN PARMEGIAN WITH PENNE", imageURL: "images/lunch-01.jpg", cost: "$12.00" },
 
         { name: "CHICKEN FRANCESE WITH PENNE", imageURL: "images/lunch-01.jpg", cost: "$12.00" },
 
-        { name: "GRILLED SALMON WITH VEGETABLES", imageURL: "images/lunch-01.jpg", cost: "$15.00" },
+        { name: "GRILLED SALMON WITH VEGETABLES", imageURL: "images/lunch-01.jpg", cost: "$16.00" },
     ]
 }
 
