@@ -174,7 +174,7 @@ var VITELLO_POLLO_PESCE_col0 = {
 
         {
             rightimage: "images/chilipepper.png",
-            name: "POLLO SCARPIELLO", cost: "$26.00"
+            name: "POLLO SCARPARIELLO", cost: "$26.00"
             ,imageURL: "images/dinner-9638.jpg", description: "Chicken on the bone with mushrooms, Italian sausage, potatoes, cherry peppers, white wine, red vinegar"
         },
 
