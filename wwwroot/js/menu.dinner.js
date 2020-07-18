@@ -136,7 +136,7 @@ var VITELLO_POLLO_PESCE_col0 = {
     categoryName: "VITELLO, POLLO, PESCE",
     dishes: [
         {
-            name: "VITELLO ALLA PICCATA", cost: "$24.00"
+            name: "VITELLO PICCATA", cost: "$24.00"
             ,imageURL: "images/dinner-3439.jpg", description: "Veal scallopine in a lemon butter sauce, with capers, served with penne"
         },
 
@@ -146,29 +146,29 @@ var VITELLO_POLLO_PESCE_col0 = {
         },
 
         {
-            name: "VITELLO ALLA SORRENTINA", cost: "$24.00"
+            name: "VITELLO SORRENTINA", cost: "$24.00"
             ,imageURL: "images/dinner-9666.jpg", description: "Veal scallopine with eggplant, prosciutto, tomato, fresh mozzarella sherry wine, served with roasted potatoes"
         },
 
         {
-            name: "VITELLO ALLA MARSALA", cost: "$24.00"
+            name: "VITELLO MARSALA", cost: "$24.00"
             , imageURL: "images/dinner-3440.jpg",description: "Veal scallopine in a marsala wine sauce with mushrooms, served with penne"
         },
 
 
 
         {
-            name: "POLLO ALLA GORGONZOLA", cost: "$22.00"
+            name: "POLLO GORGONZOLA", cost: "$22.00"
             ,imageURL: "images/9830-pollo-alla-gongonzola.jpg", description: "Chicken breast sautéed with gorgonzola cheese, mushrooms, cream sauce, served with penne"
         },
 
         {
-            name: "POLLO ALLA FIORENTINA", cost: "$22.00"
+            name: "POLLO FIORENTINA", cost: "$22.00"
             , imageURL: "images/lunch-01.jpg",description: "Chicken breast, spinach, fontina cheese, white wine sauce, servedwith penne"
         },
 
         {
-            name: "POLLO ALLA FRANCESE", cost: "$22.00"
+            name: "POLLO FRANCESE", cost: "$22.00"
             , imageURL: "images/dinner-9635.jpg",description: "Chicken breast, egg battered, and pan seared in a light lemon white wine sauce, served with penne"
         },
 
@@ -196,11 +196,6 @@ var VITELLO_POLLO_PESCE_col1 = {
         },
 
         {
-            name: "VEAL PARMIGIANA", cost: "$24.00"
-            , imageURL: "images/lunch-01.jpg",description: "Tomato sauce, mozzarella, served with penne"
-        },
-
-        {
             name: "VEAL PARMIGIANA", cost: "$26.00"
             , imageURL: "images/lunch-01.jpg",description: "Tomato sauce, mozzarella, served with penne"
         },
@@ -208,7 +203,7 @@ var VITELLO_POLLO_PESCE_col1 = {
 
 
         {
-            name: "GAMBERI ALLA FRANCESE", cost: "$25.00"
+            name: "GAMBERI FRANCESE", cost: "$25.00"
             ,imageURL: "images/dinner-1765.jpg", description: "Shrimp served in a lemon butter sauce, served over linguini"
         },
 
@@ -218,7 +213,7 @@ var VITELLO_POLLO_PESCE_col1 = {
         },
 
         {
-            name: "GAMBERI ALLA OREGANATA", cost: "$25.00"
+            name: "GAMBERI OREGANATA", cost: "$25.00"
             , imageURL: "images/9817-gamberi-alla-oreganata-dinner.jpg",description: "Shrimp sautéed in a lemon butter sauce, toasted bread crumbs, White wine, served with sautéed green beans"
         },
 
@@ -229,13 +224,13 @@ var VITELLO_POLLO_PESCE_col1 = {
         },
 
         {
-            name: "BACCALA ALLA LIVORNESE", cost: "$23.00"
+            name: "BACCALA LIVORNESE", cost: "$23.00"
             , imageURL: "images/dinner-9667.jpg",description: "Imported fresh cod pan seared with onions, capers, kalamata olives, cherry tomatoes, white wine, served with penne"
         },
 
 
         {
-            name: "SALMONE ALLA GENOVESE", cost: "$25.00"
+            name: "SALMONE GENOVESE", cost: "$25.00"
             ,imageURL: "images/dinner-9631.jpg", description: "Crispy, pan seared salmon, zucchini pesto, roasted potatoes, served with green beans and red onions"
         },
 
@@ -246,13 +241,13 @@ var APASTA_col0 = {
     categoryName: "A’ PASTA",
     dishes: [
         {
-            name: "RAVIOLI AI FUNGHI", cost: "$19.00",
+            name: "RAVIOLI FUNGHI", cost: "$19.00",
             imageURL: "images/lunch-01.jpg",
             description: "Homemade ravioli stuffed with porcini mushrooms in a pink brandy cream sauce"
         },
 
         {
-            name: "LINGUINI ALLA NONNA", cost: "$20.00",
+            name: "LINGUINI NONNA", cost: "$20.00",
             imageURL: "images/lunch-01.jpg",
             description: "Shrimp sautéed with grape tomatoes, a brandy cream sauce"
         },
@@ -270,14 +265,14 @@ var APASTA_col0 = {
         },
 
         {
-            name: "GNOCCNI ALLA NAPOLETANA", cost: "$18.00",
+            name: "GNOCCHI ALLA NAPOLETANA", cost: "$18.00",
             imageURL: "images/dinner-9637.jpg",
             description: "Homemade gnocchi, pomodoro sauce, fresh mozzarella"
         },
 
         {
             newmenuitem: "New", 
-            name: "GNOCCNI BOLOGNESE", cost: "$21.00",
+            name: "GNOCCHI BOLOGNESE", cost: "$21.00",
             imageURL: "images/lunch-01.jpg",
             description: "Homemade gnocchi, with homemade bolognese sauce"
         },
@@ -289,7 +284,7 @@ var APASTA_col0 = {
         },
 
         {
-            name: "BUCATINI ALLA AMATRICIANA", cost: "$18.00",
+            name: "BUCATINI AMATRICIANA", cost: "$18.00",
             imageURL: "images/lunch-01.jpg",
             description: "Peeled tomatoes, fresh basil, pancetta, onions and pecorino cheese"
         },
@@ -337,13 +332,13 @@ var APASTA_col1 = {
             description: "Nonna’s classic linguine with mussels, red or white sauce"
         },
         {
-            name: "PAST ALLA CONTADINA", cost: "$18.00",
+            name: "PASTA CONTADINA", cost: "$18.00",
             imageURL: "images/lunch-01.jpg",
             description: "Your pasta choice with onions, broccoli, cauliflower, carrots, squash, garlic, EVOO"
         },
 
         {
-            name: "CAPPELINI POMODORO", cost: "$16.00",
+            name: "CAPELLINI POMODORO", cost: "$16.00",
             imageURL: "images/lunch-01.jpg",
             description: "Angel hair pasta with Nonna’s classic fresh pomodoro sauce and basil"
         },
@@ -444,7 +439,7 @@ var GORMET_ARTISIAN_PIZZAS_col1 = {
 
 
         {
-            name: "GAMBERETTI AGLI SCAMPI", cost: "$16.00 / $20.00",
+            name: "GAMBERETTI SHRIMP SCAMPI", cost: "$16.00 / $20.00",
             imageURL: "images/lunch-01.jpg",
             description: "Baby shrimp, garlic, EVOO, basil, mozzarella"
         },
