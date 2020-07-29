@@ -64,7 +64,7 @@ var AntiPasti_Col1 = {
         },
         {
             name: "RAPINI CON CERVELLATA", cost: "$14.00",
-            imageURL: "images/lunch-01.jpg",
+            imageURL: "images/rapini-con-chervellata.jpg",
             description: "Broccoli rabe, pinwheel sausage "
         },
         {
@@ -74,7 +74,7 @@ var AntiPasti_Col1 = {
         },
         {
             name: "TAVOLA DI SALUMI E FORMAGGI", cost: "$22.00",
-            imageURL: "images/dinner-9233.jpg",
+            imageURL: "images/tavola-formaggie.jpg",
             description: "Imported cured meats and cheese, marinated olives"
         },
     ]
@@ -85,7 +85,7 @@ var Insalate_col0 = {
     dishes: [
         {
             name: "CLASSIC CEASAR", cost: "$10.00",
-            imageURL: "images/lunch-01.jpg",
+            imageURL: "images/cezar-salad.jpg",
             description: "Romain lettuce, pecorino romano cheese, homemade dressing "
         },
 
@@ -98,7 +98,7 @@ var Insalate_col0 = {
         {
             newmenuitem: "New", 
             name: "SICILIAN SALAD", cost: "$14.00",
-            imageURL: "images/lunch-01.jpg",
+            imageURL: "images/sicilian-salad.jpg",
             description: "Fennel, fresh oranges, arugula, candied walnuts, avocado, goat cheese, with homemade citrus vinaigrette"
         },
 
@@ -192,7 +192,7 @@ var VITELLO_POLLO_PESCE_col1 = {
 
         {
             name: "CHICKEN PARMIGIANA", cost: "$22.00"
-            ,imageURL: "images/lunch-01.jpg", description: "Tomato sauce, mozzarella, served with penne"
+            ,imageURL: "images/chicken-parmigana.jpg", description: "Tomato sauce, mozzarella, served with penne"
         },
 
         {
@@ -248,19 +248,19 @@ var APASTA_col0 = {
 
         {
             name: "LINGUINI NONNA", cost: "$20.00",
-            imageURL: "images/lunch-01.jpg",
+            imageURL: "images/Linguini-Nonna.jpg",
             description: "Shrimp sautéed with grape tomatoes, a brandy cream sauce"
         },
 
         {
             name: "TORTELLONI PIEMONTESE", cost: "$18.00",
-            imageURL: "images/lunch-01.jpg",
+            imageURL: "images/Tortelloni-piemontese.jpg",
             description: "Stuffed with asiago cheese, sautéed with pancetta and peas"
         },
 
         {
             name: "RIGATONI BOLOGNESE", cost: "$21.00",
-            imageURL: "images/lunch-01.jpg",
+            imageURL: "images/rigatoni-bolognese.jpg",
             description: "Nonna’s homemade meat sauce"
         },
 
@@ -273,7 +273,7 @@ var APASTA_col0 = {
         {
             newmenuitem: "New", 
             name: "GNOCCHI BOLOGNESE", cost: "$21.00",
-            imageURL: "images/lunch-01.jpg",
+            imageURL: "images/gnocchi-bolognese.jpg",
             description: "Homemade gnocchi, with homemade bolognese sauce"
         },
 
@@ -285,7 +285,7 @@ var APASTA_col0 = {
 
         {
             name: "BUCATINI AMATRICIANA", cost: "$18.00",
-            imageURL: "images/lunch-01.jpg",
+            imageURL: "images/bugatini-amatriciana.jpg",
             description: "Peeled tomatoes, fresh basil, pancetta, onions and pecorino cheese"
         },
 
@@ -309,7 +309,7 @@ var APASTA_col1 = {
     dishes: [
         {
             name: "LINGUINE PESTO GENOVESE", cost: "$19.00",
-            imageURL: "images/lunch-01.jpg",
+            imageURL: "images/Pesto-Genovese.jpg",
             description: "Basil pesto with pine nuts, parmigiano cheese, green beans, and potatoes"
         },
 
@@ -440,7 +440,7 @@ var GORMET_ARTISIAN_PIZZAS_col1 = {
 
         {
             name: "GAMBERETTI SHRIMP SCAMPI", cost: "$16.00 / $20.00",
-            imageURL: "images/lunch-01.jpg",
+            imageURL: "images/Shrimp-Scampi.jpg",
             description: "Baby shrimp, garlic, EVOO, basil, mozzarella"
         },
 

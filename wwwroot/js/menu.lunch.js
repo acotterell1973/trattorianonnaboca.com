@@ -46,7 +46,7 @@ var Insalate_col0 = {
     dishes: [
         {
             name: "CLASSIC CEASAR", cost: "$10.00",
-            imageURL: "images/lunch-01.jpg",
+            imageURL: "images/cezar-salad.jpg",
             description: "Romain lettuce, pecorino romano cheese, homemade dressing "
         },
 
@@ -59,7 +59,7 @@ var Insalate_col0 = {
         {
             newmenuitem: "New", 
             name: "SICILIAN SALAD", cost: "$14.00",
-            imageURL: "images/lunch-01.jpg",
+            imageURL: "images/sicilian-salad.jpg",
             description: "Fennel, fresh oranges, arugula, candied walnuts, avocado, goat cheese, with homemade citrus vinaigrette"
         },
 
@@ -109,7 +109,7 @@ var AntiPasti_Col1 = {
         },
         {
             name: "RAPINI CON CERVELLATA", cost: "$12.00",
-            imageURL: "images/lunch-01.jpg",
+            imageURL: "images/rapini-con-chervellata.jpg",
             description: "Broccoli rabe, pinwheel sausage "
         },
         {
@@ -119,7 +119,7 @@ var AntiPasti_Col1 = {
         },
         {
             name: "TAVOLA DI SALUMI E FORMAGGI", cost: "$14.00",
-            imageURL: "images/dinner-9233.jpg",
+            imageURL: "images/tavola-formaggie.jpg",
             description: "Imported cured meats and cheese, marinated olives"
         }]
 };
@@ -411,7 +411,7 @@ var ENTREES_AND_APASTA_col1 = {
     categoryName: "ENTREES AND A’PASTA",
     dishes: [
 
-        { name: "LINGUINI BOLOGNESE", imageURL: "images/lunch-01.jpg", cost: "$12.00" },
+        { name: "LINGUINI BOLOGNESE", imageURL: "images/Linguini-Nonna.jpg", cost: "$12.00" },
 
         { name: "EGGPLANT PARMEGIAN", imageURL: "images/lunch-01.jpg", cost: "$12.00" },
 
