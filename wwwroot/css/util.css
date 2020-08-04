@@ -3072,6 +3072,8 @@ TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT
 	color: white;
 }
 
+
+
 .txt2 {
 	font-family: Poppins;
 	font-weight: 700;
@@ -3084,7 +3086,7 @@ TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT
 
 .txt3 {
 	font-family: Montserrat;
-	font-weight: 400;
+	font-weight: 800;
 	font-size: 12px;
 	line-height: 1.1;
 	color: #ec1d25;
