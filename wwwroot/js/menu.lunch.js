@@ -78,7 +78,7 @@ var Insalate_col1 = {
 
         {
             name: "CAMPAGNOLA", cost: "$14.00",
-            imageURL: "images/lunch-01.jpg",
+            imageURL: "images/campagnola-salad.jpg",
             description: "Romaine, red onion, tomatoes, chick peas, salami, mortadella, aged provolone, kalamata olives, pepperoncini, our balsamic vinaigrette"
         },
 

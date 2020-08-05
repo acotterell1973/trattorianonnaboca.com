@@ -117,7 +117,7 @@ var Insalate_col1 = {
 
         {
             name: "CAMPAGNOLA", cost: "$14.00",
-            imageURL: "images/lunch-01.jpg",
+            imageURL: "images/campagnola-salad.jpg",
             description: "Romaine, red onion, tomatoes, chick peas, salami, mortadella, aged provolone, kalamata olives, pepperoncini, our balsamic vinaigrette"
         },
 
@@ -164,7 +164,7 @@ var VITELLO_POLLO_PESCE_col0 = {
 
         {
             name: "POLLO FIORENTINA", cost: "$22.00"
-            , imageURL: "images/lunch-01.jpg",description: "Chicken breast, spinach, fontina cheese, white wine sauce, servedwith penne"
+            , imageURL: "images/chicken-fiorentina.jpg",description: "Chicken breast, spinach, fontina cheese, white wine sauce, servedwith penne"
         },
 
         {
@@ -220,7 +220,7 @@ var VITELLO_POLLO_PESCE_col1 = {
         {
             newmenuitem: "New", 
             name: "GAMBERI SCAMPI", cost: "$25.00"
-            , imageURL: "images/lunch-01.jpg",description: "White wine, garlic, lemon, served over linguini"
+            , imageURL: "images/gamberi-scampi.jpg",description: "White wine, garlic, lemon, served over linguini"
         },
 
         {
@@ -242,7 +242,7 @@ var APASTA_col0 = {
     dishes: [
         {
             name: "RAVIOLI FUNGHI", cost: "$19.00",
-            imageURL: "images/lunch-01.jpg",
+            imageURL: "images/ravioli-funghi.jpg",
             description: "Homemade ravioli stuffed with porcini mushrooms in a pink brandy cream sauce"
         },
 
@@ -328,12 +328,12 @@ var APASTA_col1 = {
         {
             newmenuitem: "New", 
             name: "LINGUINE CON COZZE", cost: "$23.00",
-            imageURL: "images/lunch-01.jpg",
+            imageURL: "images/linguini-con-cozze.jpg",
             description: "Nonna’s classic linguine with mussels, red or white sauce"
         },
         {
             name: "PASTA CONTADINA", cost: "$18.00",
-            imageURL: "images/lunch-01.jpg",
+            imageURL: "images/pasta-contadina.jpg",
             description: "Your pasta choice with onions, broccoli, cauliflower, carrots, squash, garlic, EVOO"
         },
 
@@ -351,7 +351,7 @@ var APASTA_col1 = {
 
         {
             name: "SPAGHETTI AGLIO E OLIO", cost: "$16.00",
-            imageURL: "images/lunch-01.jpg",
+            imageURL: "images/spagetti-garlic-and-oil.jpg",
             description: "Garlic, EVOO"
         },
        
