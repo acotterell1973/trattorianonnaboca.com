@@ -451,7 +451,7 @@ var GORMET_ARTISIAN_PIZZAS_col1 = {
         },
 
         {
-            name: "MALECUMINATA", cost: "$16.00 / $19.00",
+            name: "MALECUMINATA", cost: "$16.00 / $20.00",
             imageURL: "images/lunch-01.jpg",
             description: "Bacon, ham, sausage, pepperoni, meatball, onion, mushroom, pepper"
         },
