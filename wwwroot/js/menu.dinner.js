@@ -440,7 +440,7 @@ var GORMET_ARTISIAN_PIZZAS_col1 = {
 
         {
             name: "GAMBERETTI SHRIMP SCAMPI", cost: "$16.00 / $20.00",
-            imageURL: "images/Shrimp-Scampi.jpg",
+            imageURL: "images/lunch-01.jpg",
             description: "Baby shrimp, garlic, EVOO, basil, mozzarella"
         },
 
