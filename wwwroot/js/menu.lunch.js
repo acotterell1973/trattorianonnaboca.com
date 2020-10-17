@@ -16,12 +16,12 @@ var AntiPasti_Col0 = {
             imageURL: "images/dinner-9712.jpg",
         },
         {
-            name: "COZZE FRADIAVOLA", cost: "$12.00",
+            name: "COZZE FRADIAVOLA", cost: "$13.00",
             rightimage: "images/chilipepper.png",
             description: "Mussels with spicy marinara sauce", imageURL: "images/dinner-9665.jpg",
         },
         {
-            name: "POLPO A FREDDO", cost: "$14.00",
+            name: "POLPO A FREDDO", cost: "$16.00",
             description: "Octopus salad, celery, olives, arugula", imageURL: "images/9822-polpo-a-freddo-appetizer.jpg",
         },
         {
@@ -222,38 +222,38 @@ var GORMET_ARTISIAN_PIZZAS_col0 = {
 
         {
             name: "QUATTRO STAGIONI ", cost: "$14.00 / $18.00",
-            imageURL: "images/lunch-01.jpg"
+            imageURL: "images/quatro-stagioni.png"
             , description: "Ricotta, prosciutto, mushroom, artichoke"
         },
 
         {
             name: "RUSTICA", cost: "$13.00 / $17.00",
-            imageURL: "images/lunch-01.jpg"
+            imageURL: "images/pizza-rustica.png"
             , description: "Fresh tomatoes, fresh mozzarella, artichoke hearts, arugula"
         },
 
         {
             name: "NONNA’S (16” PAN PIZZA) ", cost: "$16.00",
-            imageURL: "images/lunch-01.jpg"
+            imageURL: "images/nonnas-pizza.png"
             , description: "Fresh marinara sauce, mozzarella, basil"
         },
 
         {
             name: "CAPRESE", cost: "$12.00 / $16.00",
-            imageURL: "images/lunch-01.jpg"
+            imageURL: "images/caprese-pizza.png"
             , description: "Fresh tomatoes, fresh mozzarella, basil and EVOO"
         },
 
         {
             name: "RAPINI", cost: "$14.00 / $18.00",
-            imageURL: "images/lunch-01.jpg"
+            imageURL: "images/broccoli-rabe-and-sausage-pizza.png"
             , description: "Sautéed broccoli rabe and Italian sausage"
         },
 
 
         {
             name: "TUSCANA", cost: "$15.00 / $19.00",
-            imageURL: "images/lunch-01.jpg"
+            imageURL: "images/tuscana-pizza.png"
             , description: "Wild mushroom, caramelized onion, thyme, fresh mozzarella, arugula"
         },
 
@@ -278,13 +278,13 @@ var GORMET_ARTISIAN_PIZZAS_col1 = {
 
         {
             name: "ARUGULA", cost: "$14.00 / $18.00",
-            imageURL: "images/lunch-01.jpg"
+            imageURL: "images/arugula-pizza.png"
             , description: "Portobello mushroom, fresh mozzarella, fresh tomatoes, arugula, shaved parmesan"
         },
 
         {
             name: "PESTO", cost: "$14.00 / $18.00",
-            imageURL: "images/lunch-01.jpg"
+            imageURL: "images/pesto-pizza.png"
             , description: "Fresh basil pesto, pine nuts, fresh tomatoes, mozzarella"
         },
 
@@ -296,13 +296,13 @@ var GORMET_ARTISIAN_PIZZAS_col1 = {
 
         {
             name: "PIZZA DI CAVOLFIORE", cost: "$13.00 / $17.00",
-            imageURL: "images/lunch-01.jpg"
+            imageURL: "images/cauliflower-pizza.png"
             , description: "Sautéed cauliflower, garlic, oil, mozzarella, bread crumbs"
         },
 
         {
             name: "MALECUMINATA", cost: "$16.00 / $20.00",
-            imageURL: "images/lunch-01.jpg"
+            imageURL: "images/malacuminata-pizza.png"
             , description: "Bacon, ham, sausage, pepperoni, meatball, onion, mushroom, pepper"
         },
     ]
@@ -339,19 +339,19 @@ var CHEF_SPECIALTY_PIZZAS_col1 = {
 
         {
             name: "SPINACH PIZZA", cost: "$16.00 / $18.00",
-            imageURL: "images/lunch-01.jpg",
+            imageURL: "images/spinach-pizza.png",
             description: "Spinach, tomatoes, garlic, portobello mushroom, no sauce"
         },
 
         {
             name: "MEAT LOVER PIZZA", cost: "$16.00 / $20.00",
-            imageURL: "images/lunch-01.jpg",
+            imageURL: "images/meat-lovers-pizza.png",
             description: "Pepperoni, sausage, ham, bacon, meatball"
         },
 
         {
             name: "HAWAIIAN PIZZA", cost: "$14.00 / $18.00",
-            imageURL: "images/lunch-01.jpg",
+            imageURL: "images/hawaiian-pizza.png",
             description: "Pineapple, ham, mozzarella, no sauce"
         },
 
