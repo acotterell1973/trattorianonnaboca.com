@@ -155,7 +155,12 @@ var VITELLO_POLLO_PESCE_col0 = {
             , imageURL: "images/dinner-3440.jpg",description: "Veal scallopine in a marsala wine sauce with mushrooms, served with penne"
         },
 
-
+        
+        {
+            newmenuitem: "New", 
+            name: "VITELLO CAPRESE", cost: "$25.00"
+            ,imageURL: "images/lunch-01.jpg", description: "Veal Milanese topped with cherry tomato, arugula, red onion, fresh mozzarella. Finished with balsamic glaze."
+        },
 
         {
             name: "POLLO GORGONZOLA", cost: "$23.00"
@@ -176,12 +181,7 @@ var VITELLO_POLLO_PESCE_col0 = {
             rightimage: "images/chilipepper.png",
             name: "POLLO SCARPARIELLO", cost: "$26.00"
             ,imageURL: "images/dinner-9638.jpg", description: "Chicken on the bone with mushrooms, Italian sausage, potatoes, cherry peppers, white wine, red vinegar"
-        },
-        {
-            newmenuitem: "New", 
-            name: "VITELLO CAPRESE", cost: "$25.00"
-            ,imageURL: "images/lunch-01.jpg", description: "Veal Milanese topped with cherry tomato, arugula, red onion, fresh mozzarella. Finished with ballsamic glaze."
-        },
+        }
     
     ]
 }
@@ -294,9 +294,9 @@ var APASTA_col0 = {
         },
         {
             newmenuitem: "New", 
-            name: "FETTACINI ALFREDO", cost: "$20.00",
+            name: "FETTUCCINE ALFREDO", cost: "$20.00",
             imageURL: "images/lunch-01.jpg",
-            description: "Peeled tomatoes, fresh basil, pancetta, onions and pecorino cheese"
+            description: "Fettuccine pasta with our homeade Alredo sauce."
         },
   
         {
@@ -380,7 +380,7 @@ var GORMET_ARTISIAN_PIZZAS_col0 = {
         },
 
         {
-            name: "QUATTRO STAGIONI ", cost: "$13.00 / $18.00",
+            name: "QUATTRO STAGIONI ", cost: "$14.00 / $18.00",
             imageURL: "images/quatro-stagioni.png",
             description: "Ricotta, prosciutto, mushroom, artichoke, no sauce"
         },
