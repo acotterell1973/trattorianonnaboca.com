@@ -159,7 +159,7 @@ var VITELLO_POLLO_PESCE_col0 = {
         {
             newmenuitem: "New", 
             name: "VITELLO CAPRESE", cost: "$25.00"
-            ,imageURL: "images/lunch-01.jpg", description: "Veal Milanese topped with cherry tomato, arugula, red onion, fresh mozzarella. Finished with balsamic glaze."
+            ,imageURL: "images/veal-caprese.png", description: "Veal Milanese topped with cherry tomato, arugula, red onion, fresh mozzarella. Finished with balsamic glaze."
         },
 
         {
@@ -181,6 +181,11 @@ var VITELLO_POLLO_PESCE_col0 = {
             rightimage: "images/chilipepper.png",
             name: "POLLO SCARPARIELLO", cost: "$26.00"
             ,imageURL: "images/dinner-9638.jpg", description: "Chicken on the bone with mushrooms, Italian sausage, potatoes, cherry peppers, white wine, red vinegar"
+        },
+        {
+            
+            name: "SHRIMP PARMIGIANA", cost: "$26.00"
+            ,imageURL: "images/shrimp-parmigiana.png", description: "Tomato sauce, mozzarella, served with penne"
         }
     
     ]
@@ -201,7 +206,7 @@ var VITELLO_POLLO_PESCE_col1 = {
 
         {
             name: "VEAL PARMIGIANA", cost: "$25.00"
-            , imageURL: "images/lunch-01.jpg",description: "Tomato sauce, mozzarella, served with penne"
+            , imageURL: "images/veal-parmigiana.png",description: "Tomato sauce, mozzarella, served with penne"
         },
 
 
@@ -295,7 +300,7 @@ var APASTA_col0 = {
         {
             newmenuitem: "New", 
             name: "FETTUCCINE ALFREDO", cost: "$20.00",
-            imageURL: "images/lunch-01.jpg",
+            imageURL: "images/fettuccine-alfredo.png",
             description: "Fettuccine pasta with our homeade Alredo sauce."
         },
   
@@ -348,7 +353,7 @@ var APASTA_col1 = {
 
         {
             name: "CAPELLINI POMODORO", cost: "$16.00",
-            imageURL: "images/lunch-01.jpg",
+            imageURL: "images/capparelli-pomodoro.png",
             description: "Angel hair pasta with Nonna’s classic fresh pomodoro sauce and basil"
         },
 
@@ -375,7 +380,7 @@ var GORMET_ARTISIAN_PIZZAS_col0 = {
     dishes: [
         {
             name: "MARGHERITA", cost: "$14.00 / $18.00",
-            imageURL: "images/lunch-01.jpg",
+            imageURL: "images/margarita-pizza.png",
             description: "Cherry tomatoes, sauce, mozzarella, basil"
         },
 
@@ -386,7 +391,7 @@ var GORMET_ARTISIAN_PIZZAS_col0 = {
         },
 
         {
-            name: "RUSTICA", cost: "$13.00 / $18.00",
+            name: "RUSTICA", cost: "$14.00 / $18.00",
             imageURL: "images/pizza-rustica.png",
             description: "Fresh tomatoes, fresh mozzarella, artichoke hearts, arugula, no sauce"
         },
@@ -424,7 +429,7 @@ var GORMET_ARTISIAN_PIZZAS_col1 = {
     dishes: [
         {
             name: "CALABRESE", cost: "$14.00 / $18.00",
-            imageURL: "images/lunch-01.jpg",
+            imageURL: "images/calabrese-pizza.png",
             description: "Soppresata, provolone cheese, cherry peppers"
         },
 
