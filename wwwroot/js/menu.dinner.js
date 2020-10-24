@@ -435,7 +435,7 @@ var GORMET_ARTISIAN_PIZZAS_col1 = {
 
         {
             name: "QUATTRO FORMAGGI", cost: "$14.00 / $18.00",
-            imageURL: "images/lunch-01.jpg",
+            imageURL: "images/quattro-formaggi.png",
             description: "Fontina, ricotta, mozzarella, provolone, no sauce"
         },
 
@@ -481,7 +481,7 @@ var CHEF_SPECIALTY_PIZZAS_col0 = {
 
         {
             name: "VEGGIE PIZZA", cost: "$16.00 / $20.00",
-            imageURL: "images/lunch-01.jpg",
+            imageURL: "images/veggie-pizza.png",
             description: "Eggplant, zucchini, yellow squash, garlic, mozzarella, radicchio, peppers, no sauce"
         },
 

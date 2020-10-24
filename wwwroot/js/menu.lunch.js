@@ -272,7 +272,7 @@ var GORMET_ARTISIAN_PIZZAS_col1 = {
 
         {
             name: "QUATTRO FORMAGGI", cost: "$14.00 / $18.00",
-            imageURL: "images/lunch-01.jpg"
+            imageURL: "images/quattro-formaggi.png"
             , description: "Fontina, ricotta, mozzarella, provolone, roasted garlic"
         },
 
