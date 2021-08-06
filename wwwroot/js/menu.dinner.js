@@ -48,22 +48,22 @@ var AntiPasti_Col1 = {
     categoryName: "AntiPasti",
     dishes: [
         {
-            name: "CLASSICA CAPRESE ", cost: "$14.00",
+            name: "CLASSICA CAPRESE ", cost: "$15.00",
             imageURL: "images/9816-classica-caprese-appetizer.jpg",
             description: "Fresh mozzarella, tomato, basil"
         },
         {
-            name: "PROSCIUTTO E MELONE", cost: "$13.00",
+            name: "PROSCIUTTO E MELONE", cost: "$14.00",
             imageURL: "images/9844-prosciutto-e-melona.jpg",
             description: "Prosciutto, sweet cantaloupe"
         },
         {
-            name: "MELANZANE ALLA PISANA", cost: "$14.00",
+            name: "MELANZANE ALLA PISANA", cost: "$15.00",
             imageURL: "images/9841-mellanzane-alla-pisana.jpg",
             description: "Tower of eggplant, fresh mozzarella, fresh tomato, homemade basil pesto with pine nuts"
         },
         {
-            name: "RAPINI CON CERVELLATA", cost: "$14.00",
+            name: "RAPINI CON CERVELLATA", cost: "$16.00",
             imageURL: "images/rapini-con-chervellata.jpg",
             description: "Broccoli rabe, pinwheel sausage "
         },
@@ -136,50 +136,50 @@ var VITELLO_POLLO_PESCE_col0 = {
     categoryName: "VITELLO, POLLO, PESCE",
     dishes: [
         {
-            name: "VITELLO PICCATA", cost: "$25.00"
+            name: "VITELLO PICCATA", cost: "$26.00"
             ,imageURL: "images/dinner-3439.jpg", description: "Veal scallopine in a lemon butter sauce, with capers, served with penne"
         },
 
         {
-            name: "VITELLO FRANCESE", cost: "$25.00"
+            name: "VITELLO FRANCESE", cost: "$26.00"
             ,imageURL: "images/dinner-3450.jpg", description: "Veal egg battered and pan seared in a light lemon white wine sauce with penne"
         },
 
         {
-            name: "VITELLO SORRENTINA", cost: "$25.00"
+            name: "VITELLO SORRENTINA", cost: "$26.00"
             ,imageURL: "images/dinner-9666.jpg", description: "Veal scallopine with eggplant, prosciutto, tomato, fresh mozzarella sherry wine, served with roasted potatoes"
         },
 
         {
-            name: "VITELLO MARSALA", cost: "$25.00"
+            name: "VITELLO MARSALA", cost: "$26.00"
             , imageURL: "images/dinner-3440.jpg",description: "Veal scallopine in a marsala wine sauce with mushrooms, served with penne"
         },
 
         
         {
             newmenuitem: "New", 
-            name: "VITELLO CAPRESE", cost: "$25.00"
+            name: "VITELLO CAPRESE", cost: "$26.00"
             ,imageURL: "images/veal-caprese.png", description: "Veal Milanese topped with cherry tomato, arugula, red onion, fresh mozzarella. Finished with balsamic glaze."
         },
 
         {
-            name: "POLLO GORGONZOLA", cost: "$23.00"
+            name: "POLLO GORGONZOLA", cost: "$24.00"
             ,imageURL: "images/9830-pollo-alla-gongonzola.jpg", description: "Chicken breast sautéed with gorgonzola cheese, mushrooms, cream sauce, served with penne"
         },
 
         {
-            name: "POLLO FIORENTINA", cost: "$23.00"
+            name: "POLLO FIORENTINA", cost: "$24.00"
             , imageURL: "images/chicken-fiorentina.jpg",description: "Chicken breast, spinach, fontina cheese, white wine sauce, servedwith penne"
         },
 
         {
-            name: "POLLO FRANCESE", cost: "$23.00"
+            name: "POLLO FRANCESE", cost: "$24.00"
             , imageURL: "images/dinner-9635.jpg",description: "Chicken breast, egg battered, and pan seared in a light lemon white wine sauce, served with penne"
         },
 
         {
             rightimage: "images/chilipepper.png",
-            name: "POLLO SCARPARIELLO", cost: "$26.00"
+            name: "POLLO SCARPARIELLO", cost: "$27.00"
             ,imageURL: "images/dinner-9638.jpg", description: "Chicken on the bone with mushrooms, Italian sausage, potatoes, cherry peppers, white wine, red vinegar"
         },
         {
@@ -217,7 +217,7 @@ var VITELLO_POLLO_PESCE_col1 = {
         },
 
         {
-            name: "CIOPPINO", cost: "$32.00"
+            name: "CIOPPINO", cost: "$34.00"
             , imageURL: "images/dinner-3430.jpg",description: "Seafood stew, shrimp, mussels, clams, calamari, chunks of fish filet in a light broth"
         },
 
@@ -233,7 +233,7 @@ var VITELLO_POLLO_PESCE_col1 = {
         },
 
         {
-            name: "BACCALA LIVORNESE", cost: "$24.00"
+            name: "BACCALA LIVORNESE", cost: "$26.00"
             , imageURL: "images/dinner-9667.jpg",description: "Imported fresh cod pan seared with onions, capers, kalamata olives, cherry tomatoes, white wine, served with penne"
         },
 
@@ -379,19 +379,19 @@ var GORMET_ARTISIAN_PIZZAS_col0 = {
     categoryName: "GORMET ARTISIAN PIZZAS",
     dishes: [
         {
-            name: "MARGHERITA", cost: "$14.00 / $18.00",
+            name: "MARGHERITA", cost: "$15.00 / $19.00",
             imageURL: "images/margarita-pizza.png",
             description: "Cherry tomatoes, sauce, mozzarella, basil"
         },
 
         {
-            name: "QUATTRO STAGIONI ", cost: "$14.00 / $18.00",
+            name: "QUATTRO STAGIONI ", cost: "$15.00 / $19.00",
             imageURL: "images/quatro-stagioni.png",
             description: "Ricotta, prosciutto, mushroom, artichoke, no sauce"
         },
 
         {
-            name: "RUSTICA", cost: "$14.00 / $18.00",
+            name: "RUSTICA", cost: "$15.00 / $19.00",
             imageURL: "images/pizza-rustica.png",
             description: "Fresh tomatoes, fresh mozzarella, artichoke hearts, arugula, no sauce"
         },
@@ -403,19 +403,19 @@ var GORMET_ARTISIAN_PIZZAS_col0 = {
         },
 
         {
-            name: "CAPRESE", cost: "$13.00 / $17.00",
+            name: "CAPRESE", cost: "$14.00 / $18.00",
             imageURL: "images/caprese-pizza.png",
             description: "Fresh tomatoes, fresh mozzarella, basil and EVOO, no sauce"
         },
 
         {
-            name: "RAPINI", cost: "$15.00 / $19.00",
+            name: "RAPINI", cost: "$16.00 / $20.00",
             imageURL: "images/broccoli-rabe-and-sausage-pizza.png",
             description: "Sautéed broccoli rabe and Italian sausage, no sauce"
         },
 
         {
-            name: "TUSCANA", cost: "$16.00 / $20.00",
+            name: "TUSCANA", cost: "$17.00 / $21.00",
             imageURL: "images/tuscana-pizza.png",
             description: "Wild mushroom, caramelized onion, thyme, fresh mozzarella, arugula, no sauce"
         },
@@ -428,7 +428,7 @@ var GORMET_ARTISIAN_PIZZAS_col1 = {
     categoryName: "GORMET ARTISIAN PIZZAS",
     dishes: [
         {
-            name: "CALABRESE", cost: "$14.00 / $18.00",
+            name: "CALABRESE", cost: "$15.00 / $19.00",
             imageURL: "images/calabrese-pizza.png",
             description: "Soppresata, provolone cheese, cherry peppers"
         },
@@ -480,13 +480,13 @@ var CHEF_SPECIALTY_PIZZAS_col0 = {
     dishes: [
 
         {
-            name: "VEGGIE PIZZA", cost: "$16.00 / $20.00",
+            name: "VEGGIE PIZZA", cost: "$17.00 / $21.00",
             imageURL: "images/veggie-pizza.png",
             description: "Eggplant, zucchini, yellow squash, garlic, mozzarella, radicchio, peppers, no sauce"
         },
 
         {
-            name: "SPINACH PIZZA", cost: "$16.00 / $20.00",
+            name: "SPINACH PIZZA", cost: "$17.00 / $21.00",
             imageURL: "images/spinach-pizza.png",
             description: "Spinach, tomatoes, garlic, portobello mushroom, no sauce"
         },
@@ -501,13 +501,13 @@ var CHEF_SPECIALTY_PIZZAS_col1 = {
 
 
         {
-            name: "MEAT LOVER PIZZA", cost: "$17.00 / $21.00",
+            name: "MEAT LOVER PIZZA", cost: "$18.00 / $22.00",
             imageURL: "images/meat-lovers-pizza.png",
             description: "Pepperoni, sausage, ham, bacon, meatball"
         },
 
         {
-            name: "HAWAIIAN PIZZA", cost: "$15.00 / $19.00",
+            name: "HAWAIIAN PIZZA", cost: "$16.00 / $20.00",
             imageURL: "images/hawaiian-pizza.png",
             description: "Pineapple, ham, mozzarella, no sauce"
         },
@@ -518,12 +518,12 @@ var CALZONES_col0 = {
     categoryName: "CALZONES",
     dishes: [
         {
-            name: "TRADITIONAL CALZONE", cost: "$13.00",
+            name: "TRADITIONAL CALZONE", cost: "$15.00",
             imageURL: "images/9845-calzone.jpg",
             description: "Ricotta, Mozzarella, Ham"
         },
         {
-            name: "SPINACH CALZON", cost: "$12.00",
+            name: "SPINACH CALZON", cost: "$13.00",
             imageURL: "images/9845-calzone.jpg",
             description: "Ricotta, Mozzarella, Spinach"
         },
@@ -534,7 +534,7 @@ var CALZONES_col1 = {
     categoryName: "CALZONES",
     dishes: [
         {
-            name: "MEAT CALZONE", cost: "$14.00",
+            name: "MEAT CALZONE", cost: "$15.00",
             imageURL: "images/9845-calzone.jpg",
             description: "Meatball, sausage, pepperoni, ricotta, mozzarella"
         },
