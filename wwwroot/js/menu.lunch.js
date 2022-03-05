@@ -16,7 +16,7 @@ var AntiPasti_Col0 = {
             imageURL: "images/dinner-9712.jpg",
         },
         {
-            name: "COZZE FRADIAVOLA", cost: "$13.00",
+            name: "COZZE FRADIAVOLA", cost: "$15.00",
             rightimage: "images/chilipepper.png",
             description: "Mussels with spicy marinara sauce", imageURL: "images/dinner-9665.jpg",
         },
@@ -31,7 +31,7 @@ var AntiPasti_Col0 = {
         },
 
         {
-            name: "BAKED CLAMS OREGANATE", cost: "$12.00",
+            name: "BAKED CLAMS OREGANATE", cost: "$14.00",
             description: "Littleneck clams topped with seasoned Italian bread crumbs, baked in a butter white wine sauce", imageURL: "images/lunch-01.jpg",
         },
         {

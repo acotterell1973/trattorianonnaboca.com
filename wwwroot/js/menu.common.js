@@ -1,7 +1,7 @@
 var menuZuppe = {
     categoryName: "Zuppe",
-    menuItems: [{ name: "PASTA E FAGIOLE ", cost: "$6.00" },
-    { name: "NONNA'S SOUP OF THE DAY", cost: "$6.00" }]
+    menuItems: [{ name: "PASTA E FAGIOLE ", cost: "$7.00" },
+    { name: "NONNA'S SOUP OF THE DAY", cost: "$7.00" }]
 };
 
 var menuBevande = {
