@@ -592,6 +592,56 @@ var STROMBOLI_col1 = {
     ]
 }
 
+var SIDES_col0 = {
+    categoryName: "SIDES",
+    dishes: [
+        {
+            name: "BROCCOLI", cost: "$4.00"
+            ,imageURL: "", description: ""
+        },
+
+        {
+            name: "BROCCOLI RABE", cost: "$6.00"
+            ,imageURL: "", description: ""
+        },
+
+        {
+            name: "CAULIFLOWER", cost: "$6.00"
+            ,imageURL: "", description: ""
+        },
+
+        {
+            name: "GREEN BEANS", cost: "$4.00"
+            , imageURL: "",description: ""
+        } 
+    ]
+}
+
+var SIDES_col1 = {
+    categoryName: "SIDES",
+    dishes: [
+        {
+            name: "MEATBALLS", cost: "$6.00"
+            ,imageURL: "", description: ""
+        },
+
+        {
+            name: "ROASTED POTATO", cost: "$4.00"
+            ,imageURL: "", description: ""
+        },
+
+        {
+            name: "SAUSAGE", cost: "$6.00"
+            , imageURL: "",description: ""
+        },
+        {
+            name: "SPINACH", cost: "$4.00"
+            ,imageURL: "", description: ""
+        }
+
+    ]
+}
+
 var html = template(AntiPasti_Col0);
 $('#dinner-antipasti-col-0').html(html);
 
@@ -610,6 +660,13 @@ $('#dinner-vitello-pollo-pesce-col-0').html(html);
 
 var html = template(VITELLO_POLLO_PESCE_col1);
 $('#dinner-vitello-pollo-pesce-col-1').html(html);
+
+
+var html = template(SIDES_col0);
+$('#dinner-sides-col-0').html(html);
+
+var html = template(SIDES_col1);
+$('#dinner-sides-col-1').html(html);
 
 
 var html = template(APASTA_col0);
