@@ -597,22 +597,22 @@ var SIDES_col0 = {
     dishes: [
         {
             name: "BROCCOLI", cost: "$4.00"
-            ,imageURL: "", description: ""
+            ,imageURL: "images/spacer.png", description: ""
         },
 
         {
             name: "BROCCOLI RABE", cost: "$6.00"
-            ,imageURL: "", description: ""
+            ,imageURL: "images/spacer.png", description: ""
         },
 
         {
             name: "CAULIFLOWER", cost: "$6.00"
-            ,imageURL: "", description: ""
+            ,imageURL: "images/spacer.png", description: ""
         },
 
         {
             name: "GREEN BEANS", cost: "$4.00"
-            , imageURL: "",description: ""
+            , imageURL: "images/spacer.png",description: ""
         } 
     ]
 }
@@ -627,16 +627,16 @@ var SIDES_col1 = {
 
         {
             name: "ROASTED POTATO", cost: "$4.00"
-            ,imageURL: "", description: ""
+            ,imageURL: "images/spacer.png", description: ""
         },
 
         {
             name: "SAUSAGE", cost: "$6.00"
-            , imageURL: "",description: ""
+            , imageURL: "images/spacer.png",description: ""
         },
         {
             name: "SPINACH", cost: "$4.00"
-            ,imageURL: "", description: ""
+            ,imageURL: "images/spacer.png", description: ""
         }
 
     ]
