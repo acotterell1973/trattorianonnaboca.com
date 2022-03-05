@@ -622,7 +622,7 @@ var SIDES_col1 = {
     dishes: [
         {
             name: "MEATBALLS", cost: "$6.00"
-            ,imageURL: "", description: ""
+            ,imageURL: "images/spacer.png", description: ""
         },
 
         {
