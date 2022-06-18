@@ -987,6 +987,91 @@ input[type="date" i] {
 /*[ Caption ]
 -----------------------------------------------------------
 */
+
+@media only screen 
+  and (min-device-width: 375px) 
+  and (max-device-width: 812px) 
+  and (-webkit-min-device-pixel-ratio: 3) { 
+
+    .wrap-content-slide1 .tit1 {
+      font-size: 40px;
+    }
+  
+    .wrap-content-slide1 .txt1 {
+      font-size: 40px;
+    }
+  
+    .bgImage {
+      background-image: url(../images/bg-title-page-02-567.jpg);
+    }
+    
+    .bgImage-02 {
+      background-image: url(../images/bg-title-page-02-567.jpg);
+    }
+  
+    
+    .bgImage-03 {
+      background-image: url(../images/bg-title-page-03-567.jpg);
+    }
+  
+    .bgImage-04 {
+      background-image: url(../images/bg-title-page-04-567.jpg);
+    }
+    .bgImage-06 {
+      background-image: url(../images/bg-title-page-06-567.jpg);
+    }
+  
+    .bg-title-page {
+      width: 100%;
+    
+      padding-left: 15px;
+      padding-right: 15px;
+      background-repeat: no-repeat;
+    }
+}
+
+@media only screen 
+  and (min-device-width: 414px) 
+  and (max-device-width: 736px) 
+  and (-webkit-min-device-pixel-ratio: 3) { 
+    
+    .wrap-content-slide1 .tit1 {
+      font-size: 40px;
+    }
+  
+    .wrap-content-slide1 .txt1 {
+      font-size: 40px;
+    }
+  
+    .bgImage {
+      background-image: url(../images/bg-title-page-02-567.jpg);
+    }
+    
+    .bgImage-02 {
+      background-image: url(../images/bg-title-page-02-567.jpg);
+    }
+  
+    
+    .bgImage-03 {
+      background-image: url(../images/bg-title-page-03-567.jpg);
+    }
+  
+    .bgImage-04 {
+      background-image: url(../images/bg-title-page-04-567.jpg);
+    }
+    .bgImage-06 {
+      background-image: url(../images/bg-title-page-06-567.jpg);
+    }
+  
+    .bg-title-page {
+      width: 100%;
+    
+      padding-left: 15px;
+      padding-right: 15px;
+      background-repeat: no-repeat;
+    }
+}
+
 @media (max-width: 768px) {
   .wrap-content-slide1 .tit1 {
     font-size: 70px;
@@ -1557,6 +1642,61 @@ body {
 }
 
 @media (max-width: 576px) {
+  .bg-title-page-576 {
+    width: 100%;
+    min-height: auto;
+    padding-left: 15px;
+    padding-right: 15px;
+    background-repeat: no-repeat;
+    background-position: 0 0;
+    padding-bottom: 0px;
+  }
+
+  .bg-title-page .tit6 {
+    font-size: 30px;
+  }
+}
+
+@media only screen 
+  and (min-device-width: 375px) 
+  and (max-device-width: 812px) 
+  and (-webkit-min-device-pixel-ratio: 3) { 
+
+    .bg-title-page-576 {
+      width: 100%;
+      min-height: auto;
+      padding-left: 15px;
+      padding-right: 15px;
+      background-repeat: no-repeat;
+      background-position: 0 0;
+      padding-bottom: 0px;
+    }
+  
+    .bg-title-page .tit6 {
+      font-size: 30px;
+    }
+}
+
+@media only screen 
+  and (min-device-width: 414px) 
+  and (max-device-width: 736px) 
+  and (-webkit-min-device-pixel-ratio: 3) { 
+    .bg-title-page-576 {
+      width: 100%;
+      min-height: auto;
+      padding-left: 15px;
+      padding-right: 15px;
+      background-repeat: no-repeat;
+      background-position: 0 0;
+      padding-bottom: 0px;
+    }
+  
+    .bg-title-page .tit6 {
+      font-size: 30px;
+    }
+}
+
+@media (max-width: 768px) {
   .bg-title-page-576 {
     width: 100%;
     min-height: auto;
